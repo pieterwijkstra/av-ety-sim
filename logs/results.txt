@@ -1,0 +1,978 @@
+Cargoes: 120, Vessels: 7, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 50.87%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             233          233            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           233     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 7, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 46.96%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             232          232            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           232     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 7, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 45.86%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             228          228            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           228     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 7, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 41.34%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             230          230            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           230     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 6, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 42.68%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             233          233            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           233     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 6, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 0.02
+Maximum length of stay in queue, adjusted: 1.82
+Average idle time over vessels: 37.89%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             233          233            0    
+mean                  0.000        0.000
+std.deviation         0.001        0.001
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0.022        0.022
+
+           <=       entries     %  cum%
+        0           232      99.6  99.6 *******************************************************************************|
+        1             1       0.4 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 6, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 36.84%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             228          228            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           228     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 6, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 0.44
+Maximum length of stay in queue, adjusted: 2.24
+Average idle time over vessels: 31.44%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             231          231            0    
+mean                  0.005        0.005
+std.deviation         0.040        0.040
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0.439        0.439
+
+           <=       entries     %  cum%
+        0           226      97.8  97.8 ******************************************************************************|
+        1             5       2.2 100   *                                                                               |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 5, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 1.12
+Maximum length of stay in queue, adjusted: 2.92
+Average idle time over vessels: 32.10%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             233          233            0    
+mean                  0.017        0.017
+std.deviation         0.115        0.115
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               1.122        1.122
+
+           <=       entries     %  cum%
+        0           224      96.1  96.1 ****************************************************************************|  
+        1             7       3.0  99.1 **                                                                             |
+        2             2       0.9 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 5, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 1.62
+Maximum length of stay in queue, adjusted: 3.42
+Average idle time over vessels: 25.01%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             233          233            0    
+mean                  0.035        0.035
+std.deviation         0.192        0.192
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               1.616        1.616
+
+           <=       entries     %  cum%
+        0           222      95.3  95.3 ****************************************************************************|  
+        1             8       3.4  98.7 **                                                                            |
+        2             3       1.3 100   *                                                                               |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 5, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 1.98
+Maximum length of stay in queue, adjusted: 3.78
+Average idle time over vessels: 24.10%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             229          229            0    
+mean                  0.057        0.057
+std.deviation         0.214        0.214
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.164        0.164
+95% percentile        0.433        0.433
+maximum               1.982        1.982
+
+           <=       entries     %  cum%
+        0           201      87.8  87.8 **********************************************************************|        
+        1            24      10.5  98.3 ********                                                                      |
+        2             4       1.7 100   *                                                                               |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 120, Vessels: 5, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 1.77
+Maximum length of stay in queue, adjusted: 3.57
+Average idle time over vessels: 18.01%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             230          230            0    
+mean                  0.112        0.112
+std.deviation         0.307        0.307
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.418        0.418
+95% percentile        0.932        0.932
+maximum               1.768        1.768
+
+           <=       entries     %  cum%
+        0           190      82.6  82.6 ******************************************************************|            
+        1            30      13.0  95.7 **********                                                                  |  
+        2            10       4.3 100   ***                                                                             |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 7, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 46.88%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             257          257            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           257     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 7, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 39.76%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             263          263            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           263     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 7, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 39.00%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             257          257            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           257     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 7, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 0.00
+Maximum length of stay in queue, adjusted: 1.80
+Average idle time over vessels: 33.75%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             260          260            0    
+mean                  0            0    
+std.deviation         0            0    
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0            0    
+
+           <=       entries     %  cum%
+        0           260     100   100   ********************************************************************************|
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 6, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.09
+Maximum length of stay in queue, adjusted: 1.89
+Average idle time over vessels: 38.02%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             257          257            0    
+mean                  0.000        0.000
+std.deviation         0.005        0.005
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0.087        0.087
+
+           <=       entries     %  cum%
+        0           256      99.6  99.6 *******************************************************************************|
+        1             1       0.4 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 6, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 0.82
+Maximum length of stay in queue, adjusted: 2.62
+Average idle time over vessels: 30.21%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             261          261            0    
+mean                  0.010        0.010
+std.deviation         0.074        0.074
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0.825        0.825
+
+           <=       entries     %  cum%
+        0           254      97.3  97.3 *****************************************************************************| 
+        1             7       2.7 100   **                                                                              |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 6, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 1.92
+Maximum length of stay in queue, adjusted: 3.72
+Average idle time over vessels: 26.61%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             266          266            0    
+mean                  0.025        0.025
+std.deviation         0.152        0.152
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0.007        0.007
+maximum               1.924        1.924
+
+           <=       entries     %  cum%
+        0           252      94.7  94.7 ***************************************************************************|   
+        1            12       4.5  99.2 ***                                                                            |
+        2             2       0.8 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 6, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 1.71
+Maximum length of stay in queue, adjusted: 3.51
+Average idle time over vessels: 21.71%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             261          261            0    
+mean                  0.029        0.029
+std.deviation         0.174        0.174
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               1.707        1.707
+
+           <=       entries     %  cum%
+        0           249      95.4  95.4 ****************************************************************************|  
+        1            10       3.8  99.2 ***                                                                            |
+        2             2       0.8 100.0                                                                                |
+          inf         0       0   100.0                                                                                |
+
+==================================================================
+Cargoes: 150, Vessels: 5, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 1.36
+Maximum length of stay in queue, adjusted: 3.16
+Average idle time over vessels: 23.17%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             261          261            0    
+mean                  0.055        0.055
+std.deviation         0.194        0.194
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.019        0.019
+95% percentile        0.505        0.505
+maximum               1.361        1.361
+
+           <=       entries     %  cum%
+        0           234      89.7  89.7 ***********************************************************************|       
+        1            25       9.6  99.2 *******                                                                        |
+        2             2       0.8 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 5, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 3.43
+Maximum length of stay in queue, adjusted: 5.23
+Average idle time over vessels: 16.59%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             262          262            0    
+mean                  0.211        0.211
+std.deviation         0.503        0.503
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.976        0.976
+95% percentile        1.281        1.281
+maximum               3.433        3.433
+
+           <=       entries     %  cum%
+        0           202      77.1  77.1 *************************************************************|                 
+        1            34      13.0  90.1 **********                                                              |      
+        2            22       8.4  98.5 ******                                                                        |
+        3             3       1.1  99.6                                                                                |
+        4             1       0.4 100.0                                                                                |
+          inf         0       0   100.0                                                                                |
+
+==================================================================
+Cargoes: 150, Vessels: 5, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 1.67
+Maximum length of stay in queue, adjusted: 3.47
+Average idle time over vessels: 14.78%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             257          257            0    
+mean                  0.137        0.137
+std.deviation         0.321        0.321
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.534        0.534
+95% percentile        0.881        0.881
+maximum               1.672        1.672
+
+           <=       entries     %  cum%
+        0           196      76.3  76.3 *************************************************************|                 
+        1            49      19.1  95.3 ***************                                                             |  
+        2            12       4.7 100   ***                                                                             |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 150, Vessels: 5, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 3.62
+Maximum length of stay in queue, adjusted: 5.42
+Average idle time over vessels: 6.62%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             262          262            0    
+mean                  0.457        0.457
+std.deviation         0.651        0.651
+
+minimum               0            0    
+median                0.056        0.056
+90% percentile        1.446        1.446
+95% percentile        1.797        1.797
+maximum               3.619        3.619
+
+           <=       entries     %  cum%
+        0           126      48.1  48.1 **************************************|                                        
+        1            94      35.9  84.0 ****************************                                       |           
+        2            32      12.2  96.2 *********                                                                   |  
+        3             8       3.1  99.2 **                                                                             |
+        4             2       0.8 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 7, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.79
+Maximum length of stay in queue, adjusted: 2.59
+Average idle time over vessels: 39.06%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             294          294            0    
+mean                  0.003        0.003
+std.deviation         0.046        0.046
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0.787        0.787
+
+           <=       entries     %  cum%
+        0           293      99.7  99.7 *******************************************************************************|
+        1             1       0.3 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 7, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 0.09
+Maximum length of stay in queue, adjusted: 1.89
+Average idle time over vessels: 33.03%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             294          294            0    
+mean                  0.000        0.000
+std.deviation         0.005        0.005
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0.087        0.087
+
+           <=       entries     %  cum%
+        0           293      99.7  99.7 *******************************************************************************|
+        1             1       0.3 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 7, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.66
+Maximum length of stay in queue, adjusted: 2.46
+Average idle time over vessels: 30.62%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             295          295            0    
+mean                  0.003        0.003
+std.deviation         0.041        0.041
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0.655        0.655
+
+           <=       entries     %  cum%
+        0           292      99.0  99.0 *******************************************************************************|
+        1             3       1.0 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 7, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 1.68
+Maximum length of stay in queue, adjusted: 3.48
+Average idle time over vessels: 25.22%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             296          296            0    
+mean                  0.021        0.021
+std.deviation         0.128        0.128
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               1.676        1.676
+
+           <=       entries     %  cum%
+        0           283      95.6  95.6 ****************************************************************************|  
+        1            12       4.1  99.7 ***                                                                            |
+        2             1       0.3 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 6, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 0.53
+Maximum length of stay in queue, adjusted: 2.33
+Average idle time over vessels: 29.83%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             290          290            0    
+mean                  0.004        0.004
+std.deviation         0.043        0.043
+
+minimum               0            0    
+median                0            0    
+90% percentile        0            0    
+95% percentile        0            0    
+maximum               0.530        0.530
+
+           <=       entries     %  cum%
+        0           286      98.6  98.6 ******************************************************************************|
+        1             4       1.4 100   *                                                                               |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 6, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 1.68
+Maximum length of stay in queue, adjusted: 3.48
+Average idle time over vessels: 20.65%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             301          301            0    
+mean                  0.068        0.068
+std.deviation         0.247        0.247
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.111        0.111
+95% percentile        0.534        0.534
+maximum               1.677        1.677
+
+           <=       entries     %  cum%
+        0           264      87.7  87.7 **********************************************************************|        
+        1            29       9.6  97.3 *******                                                                      | 
+        2             8       2.7 100.0 **                                                                             |
+          inf         0       0   100.0                                                                                |
+
+==================================================================
+Cargoes: 180, Vessels: 6, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 2.13
+Maximum length of stay in queue, adjusted: 3.93
+Average idle time over vessels: 19.80%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             293          293            0    
+mean                  0.086        0.086
+std.deviation         0.288        0.288
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.264        0.264
+95% percentile        0.600        0.600
+maximum               2.128        2.128
+
+           <=       entries     %  cum%
+        0           253      86.3  86.3 *********************************************************************|         
+        1            31      10.6  96.9 ********                                                                     | 
+        2             7       2.4  99.3 *                                                                              |
+        3             2       0.7 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 6, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 1.35
+Maximum length of stay in queue, adjusted: 3.15
+Average idle time over vessels: 15.55%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             285          285            0    
+mean                  0.080        0.080
+std.deviation         0.238        0.238
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.300        0.300
+95% percentile        0.685        0.685
+maximum               1.353        1.353
+
+           <=       entries     %  cum%
+        0           240      84.2  84.2 *******************************************************************|           
+        1            39      13.7  97.9 **********                                                                    |
+        2             6       2.1 100.0 *                                                                              |
+          inf         0       0   100.0                                                                                |
+
+==================================================================
+Cargoes: 180, Vessels: 5, Speed: 15 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 1.54
+Maximum length of stay in queue, adjusted: 3.34
+Average idle time over vessels: 16.72%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             288          288            0    
+mean                  0.127        0.127
+std.deviation         0.309        0.309
+
+minimum               0            0    
+median                0            0    
+90% percentile        0.584        0.584
+95% percentile        0.973        0.973
+maximum               1.538        1.538
+
+           <=       entries     %  cum%
+        0           225      78.1  78.1 **************************************************************|                
+        1            51      17.7  95.8 **************                                                              |  
+        2            12       4.2 100   ***                                                                             |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 5, Speed: 15 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 2.84
+Maximum length of stay in queue, adjusted: 4.64
+Average idle time over vessels: 7.55%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             291          291            0    
+mean                  0.455        0.455
+std.deviation         0.645        0.645
+
+minimum               0            0    
+median                0.029        0.029
+90% percentile        1.420        1.420
+95% percentile        1.874        1.874
+maximum               2.837        2.837
+
+           <=       entries     %  cum%
+        0           144      49.5  49.5 ***************************************|                                       
+        1            90      30.9  80.4 ************************                                        |              
+        2            44      15.1  95.5 ************                                                                |  
+        3            13       4.5 100   ***                                                                             |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 5, Speed: 12 knots, Mean Disruption: 0 hours
+ 
+Maximum length of stay in queue: 4.14
+Maximum length of stay in queue, adjusted: 5.94
+Average idle time over vessels: 6.89%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             284          284            0    
+mean                  0.658        0.658
+std.deviation         0.904        0.904
+
+minimum               0            0    
+median                0.219        0.219
+90% percentile        2.002        2.002
+95% percentile        2.623        2.623
+maximum               4.135        4.135
+
+           <=       entries     %  cum%
+        0           125      44.0  44.0 ***********************************|                                           
+        1            83      29.2  73.2 ***********************                                   |                    
+        2            47      16.5  89.8 *************                                                          |       
+        3            19       6.7  96.5 *****                                                                        | 
+        4             9       3.2  99.6 **                                                                             |
+        5             1       0.4 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+==================================================================
+Cargoes: 180, Vessels: 5, Speed: 12 knots, Mean Disruption: 0.25 hours
+ 
+Maximum length of stay in queue: 26.63
+Maximum length of stay in queue, adjusted: 28.43
+Average idle time over vessels: 0.08%
+ 
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             279          279            0    
+mean                 15.180       15.180
+std.deviation         7.652        7.652
+
+minimum               0            0    
+median               15.109       15.109
+90% percentile       24.479       24.479
+95% percentile       25.133       25.133
+maximum              26.634       26.634
+
+           <=       entries     %  cum%
+        0             5       1.8   1.8 *|                                                                             
+        1             0       0     1.8  |                                                                             
+        2             5       1.8   3.6 * |                                                                            
+        3             3       1.1   4.7    |                                                                           
+        4             4       1.4   6.1 *   |                                                                          
+        5             4       1.4   7.5 *     |                                                                        
+        6            16       5.7  13.3 ****      |                                                                    
+        7            13       4.7  17.9 ***           |                                                                
+        8            10       3.6  21.5 **               |                                                             
+        9            17       6.1  27.6 ****                  |                                                        
+       10            10       3.6  31.2 **                      |                                                      
+       11            15       5.4  36.6 ****                         |                                                 
+       12            17       6.1  42.7 ****                              |                                            
+       13             7       2.5  45.2 **                                  |                                          
+       14             7       2.5  47.7 **                                    |                                        
+       15             5       1.8  49.5 *                                      |                                       
+       16             9       3.2  52.7 **                                        |                                    
+       17             6       2.2  54.8 *                                          |                                   
+       18            12       4.3  59.1 ***                                            |                               
+       19             4       1.4  60.6 *                                               |                              
+       20             8       2.9  63.4 **                                                |                            
+       21             4       1.4  64.9 *                                                  |                           
+       22            10       3.6  68.5 **                                                    |                        
+       23            14       5.0  73.5 ****                                                      |                    
+       24            25       9.0  82.4 *******                                                          |             
+       25            31      11.1  93.5 ********                                                                  |    
+       26            12       4.3  97.8 ***                                                                           |
+       27             6       2.2 100   *                                                                               |
+          inf         0       0   100                                                                                   |
+
+==================================================================

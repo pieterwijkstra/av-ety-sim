@@ -1,0 +1,1546 @@
+0.00 - Coral Lophelia: Departure ballast to Braefoot Bay 
+0.00 - Coral Parensis: Departure ballast to Porvoo 
+0.00 - Coral Patula: Departure ballast to Rafnes 
+0.00 - Coral Pearl: Departure ballast to Le Havre 
+0.93 - Coral Pearl: Arrive ballast at Le Havre (Distance: 247 NM, Travel time: 0.93 days) 
+1.49 - Coral Alameda: Departure ballast to Braefoot Bay 
+1.63 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+2.15 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+2.45 - Coral Pearl: cargo.3 loaded at Le Havre, Departure laden to Antwerp 
+3.12 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+3.13 - Coral Lophelia: cargo.0 loaded at Braefoot Bay, Departure laden to Antwerp 
+3.24 - Coral Patula: cargo.2 loaded at Rafnes, Departure laden to Antwerp 
+3.38 - Coral Pearl: Arrive laden at Antwerp (Distance: 247 NM, Travel time: 0.93 days) 
+4.62 - Coral Alameda: cargo.4 loaded at Braefoot Bay, Departure laden to Antwerp 
+4.63 - Coral Parensis: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+4.76 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+5.23 - Coral Pearl: cargo.3 discharged in Antwerp 
+5.23 - Coral Pearl: Departure ballast to Rafnes 
+5.39 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+6.11 - Coral Parensis: cargo.1 loaded at Porvoo, Departure laden to Stenungsund 
+6.16 - Coral Lophelia: cargo.0 discharged in Antwerp 
+6.16 - Coral Lophelia: Departure ballast to Braefoot Bay 
+6.25 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+6.50 - Coral Patula: cargo.2 discharged in Antwerp 
+6.50 - Coral Patula: Departure ballast to Braefoot Bay 
+7.38 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+7.79 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+8.02 - Coral Alameda: cargo.4 discharged in Antwerp 
+8.02 - Coral Alameda: Departure ballast to Rafnes 
+8.14 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+8.64 - Coral Pearl: cargo.5 loaded at Rafnes, Departure laden to Stenungsund 
+8.83 - Coral Parensis: Arrive laden at Stenungsund (Distance: 725 NM, Travel time: 2.72 days) 
+9.06 - Coral Pearl: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+9.29 - Coral Lophelia: cargo.6 loaded at Braefoot Bay, Departure laden to Antwerp 
+9.51 - Coral Patula: cargo.7 loaded at Braefoot Bay, Departure laden to Antwerp 
+10.08 - Coral Parensis: cargo.1 discharged in Stenungsund 
+10.08 - Coral Parensis: Departure ballast to Braefoot Bay 
+10.17 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+10.40 - Coral Pearl: cargo.5 discharged in Stenungsund 
+10.40 - Coral Pearl: Departure ballast to Braefoot Bay 
+10.92 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+11.14 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+11.37 - Coral Alameda: cargo.8 loaded at Rafnes, Departure laden to Antwerp 
+12.02 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+12.34 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+12.35 - Coral Lophelia: cargo.6 discharged in Antwerp 
+12.35 - Coral Lophelia: Departure ballast to Rafnes 
+12.40 - Coral Patula: cargo.7 discharged in Antwerp 
+12.40 - Coral Patula: Departure ballast to Braefoot Bay 
+13.52 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+13.53 - Coral Parensis: cargo.9 loaded at Braefoot Bay, Departure laden to Antwerp 
+13.93 - Coral Pearl: cargo.10 loaded at Braefoot Bay, Departure laden to Antwerp 
+14.04 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+14.50 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+15.16 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+15.24 - Coral Alameda: cargo.8 discharged in Antwerp 
+15.24 - Coral Alameda: Departure ballast to Braefoot Bay 
+15.47 - Coral Patula: cargo.12 loaded at Braefoot Bay, Departure laden to Antwerp 
+15.56 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+16.02 - Coral Lophelia: cargo.11 loaded at Rafnes, Departure laden to Stade 
+16.82 - Coral Parensis: cargo.9 discharged in Antwerp 
+16.82 - Coral Parensis: Departure ballast to Porvoo 
+16.87 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+17.10 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+17.26 - Coral Pearl: cargo.10 discharged in Antwerp 
+17.26 - Coral Pearl: Departure ballast to Braefoot Bay 
+17.46 - Coral Lophelia: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+18.16 - Coral Alameda: cargo.13 loaded at Braefoot Bay, Departure laden to Antwerp 
+18.59 - Coral Patula: cargo.12 discharged in Antwerp 
+18.59 - Coral Patula: Departure ballast to Braefoot Bay 
+18.72 - Coral Lophelia: cargo.11 discharged in Stade 
+18.72 - Coral Lophelia: Departure ballast to Rafnes 
+18.89 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+19.80 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+20.16 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 385 NM, Travel time: 1.44 days) 
+20.23 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+20.63 - Coral Pearl: cargo.15 loaded at Braefoot Bay, Departure laden to Antwerp 
+21.21 - Coral Alameda: cargo.13 discharged in Antwerp 
+21.21 - Coral Alameda: Departure ballast to Braefoot Bay 
+21.44 - Coral Parensis: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+21.68 - Coral Patula: cargo.16 loaded at Braefoot Bay, Departure laden to Antwerp 
+21.72 - Coral Lophelia: cargo.17 loaded at Rafnes, Departure laden to Antwerp 
+22.26 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+22.84 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+22.97 - Coral Parensis: cargo.14 loaded at Porvoo, Departure laden to Antwerp 
+23.31 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+23.77 - Coral Pearl: cargo.15 discharged in Antwerp 
+23.77 - Coral Pearl: Departure ballast to Braefoot Bay 
+23.86 - Coral Lophelia: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+24.28 - Coral Alameda: cargo.18 loaded at Braefoot Bay, Departure laden to Antwerp 
+24.93 - Coral Patula: cargo.16 discharged in Antwerp 
+24.93 - Coral Patula: Departure ballast to Rafnes 
+25.40 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+25.49 - Coral Lophelia: cargo.17 discharged in Antwerp 
+25.49 - Coral Lophelia: Departure ballast to Braefoot Bay 
+25.91 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+26.77 - Coral Pearl: cargo.19 loaded at Braefoot Bay, Departure laden to Antwerp 
+27.08 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+27.12 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+27.59 - Coral Parensis: Arrive laden at Antwerp (Distance: 1234 NM, Travel time: 4.63 days) 
+27.80 - Coral Alameda: cargo.18 discharged in Antwerp 
+27.80 - Coral Alameda: Departure ballast to Braefoot Bay 
+28.40 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+28.57 - Coral Lophelia: cargo.21 loaded at Braefoot Bay, Departure laden to Antwerp 
+28.97 - Coral Patula: cargo.20 loaded at Rafnes, Departure laden to Antwerp 
+29.22 - Coral Parensis: cargo.14 discharged in Antwerp 
+29.22 - Coral Parensis: Departure ballast to Braefoot Bay 
+29.43 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+29.98 - Coral Pearl: cargo.19 discharged in Antwerp 
+29.98 - Coral Pearl: Departure ballast to Rafnes 
+30.20 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+30.67 - Coral Alameda: cargo.22 loaded at Braefoot Bay, Departure laden to Antwerp 
+30.85 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+31.12 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+31.97 - Coral Parensis: cargo.23 loaded at Braefoot Bay, Departure laden to Antwerp 
+32.12 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+32.29 - Coral Lophelia: cargo.21 discharged in Antwerp 
+32.29 - Coral Lophelia: Departure ballast to Braefoot Bay 
+32.30 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+32.68 - Coral Patula: cargo.20 discharged in Antwerp 
+32.68 - Coral Patula: Departure ballast to Braefoot Bay 
+33.60 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+33.93 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+34.05 - Coral Pearl: cargo.24 loaded at Rafnes, Departure laden to Antwerp 
+34.18 - Coral Alameda: cargo.22 discharged in Antwerp 
+34.18 - Coral Alameda: Departure ballast to Rafnes 
+34.31 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+35.09 - Coral Lophelia: cargo.25 loaded at Braefoot Bay, Departure laden to Antwerp 
+35.21 - Coral Parensis: cargo.23 discharged in Antwerp 
+35.21 - Coral Parensis: Departure ballast to Braefoot Bay 
+36.00 - Coral Patula: cargo.26 loaded at Braefoot Bay, Departure laden to Antwerp 
+36.19 - Coral Pearl: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+36.33 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+36.72 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+36.84 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+37.57 - Coral Pearl: cargo.24 discharged in Antwerp 
+37.57 - Coral Pearl: Departure ballast to Porvoo 
+37.63 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+37.76 - Coral Alameda: cargo.27 loaded at Rafnes, Departure laden to Stenungsund 
+37.90 - Coral Parensis: cargo.28 loaded at Braefoot Bay, Departure laden to Antwerp 
+38.18 - Coral Alameda: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+38.27 - Coral Lophelia: cargo.25 discharged in Antwerp 
+38.27 - Coral Lophelia: Departure ballast to Braefoot Bay 
+38.64 - Coral Patula: cargo.26 discharged in Antwerp 
+38.64 - Coral Patula: Departure ballast to Rafnes 
+39.53 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+39.90 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+40.12 - Coral Alameda: cargo.27 discharged in Stenungsund 
+40.12 - Coral Alameda: Departure ballast to Braefoot Bay 
+40.79 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+41.25 - Coral Parensis: cargo.28 discharged in Antwerp 
+41.25 - Coral Parensis: Departure ballast to Braefoot Bay 
+41.51 - Coral Lophelia: cargo.30 loaded at Braefoot Bay, Departure laden to Antwerp 
+42.06 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+42.19 - Coral Pearl: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+42.40 - Coral Patula: cargo.31 loaded at Rafnes, Departure laden to Stade 
+42.88 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+43.14 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+43.60 - Coral Pearl: cargo.29 loaded at Porvoo, Departure laden to Antwerp 
+43.84 - Coral Patula: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+44.31 - Coral Alameda: cargo.32 loaded at Braefoot Bay, Departure laden to Antwerp 
+44.37 - Coral Parensis: cargo.33 loaded at Braefoot Bay, Departure laden to Antwerp 
+44.78 - Coral Lophelia: cargo.30 discharged in Antwerp 
+44.78 - Coral Lophelia: Departure ballast to Braefoot Bay 
+45.39 - Coral Patula: cargo.31 discharged in Stade 
+45.39 - Coral Patula: Departure ballast to Rafnes 
+45.94 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+46.00 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+46.42 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+46.83 - Coral Patula: Arrive ballast at Rafnes (Distance: 385 NM, Travel time: 1.44 days) 
+47.24 - Coral Parensis: cargo.33 discharged in Antwerp 
+47.24 - Coral Parensis: Departure ballast to Braefoot Bay 
+47.51 - Coral Alameda: cargo.32 discharged in Antwerp 
+47.51 - Coral Alameda: Departure ballast to Braefoot Bay 
+48.23 - Coral Pearl: Arrive laden at Antwerp (Distance: 1234 NM, Travel time: 4.63 days) 
+48.31 - Coral Lophelia: cargo.34 loaded at Braefoot Bay, Departure laden to Antwerp 
+48.43 - Coral Patula: cargo.35 loaded at Rafnes, Departure laden to Stenungsund 
+48.85 - Coral Patula: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+48.88 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+49.14 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+49.61 - Coral Pearl: cargo.29 discharged in Antwerp 
+49.61 - Coral Pearl: Departure ballast to Rafnes 
+49.94 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+49.99 - Coral Parensis: cargo.36 loaded at Braefoot Bay, Departure laden to Antwerp 
+50.57 - Coral Patula: cargo.35 discharged in Stenungsund 
+50.57 - Coral Patula: Departure ballast to Braefoot Bay 
+50.58 - Coral Alameda: cargo.37 loaded at Braefoot Bay, Departure laden to Antwerp 
+51.46 - Coral Lophelia: cargo.34 discharged in Antwerp 
+51.46 - Coral Lophelia: Departure ballast to Braefoot Bay 
+51.62 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+51.75 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+52.21 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+52.51 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+53.05 - Coral Parensis: cargo.36 discharged in Antwerp 
+53.05 - Coral Parensis: Departure ballast to Porvoo 
+53.09 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+53.19 - Coral Pearl: cargo.38 loaded at Rafnes, Departure laden to Stenungsund 
+53.61 - Coral Pearl: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+53.90 - Coral Patula: cargo.39 loaded at Braefoot Bay, Departure laden to Antwerp 
+53.98 - Coral Alameda: cargo.37 discharged in Antwerp 
+53.98 - Coral Alameda: Departure ballast to Rafnes 
+54.61 - Coral Lophelia: cargo.40 loaded at Braefoot Bay, Departure laden to Antwerp 
+54.76 - Coral Pearl: cargo.38 discharged in Stenungsund 
+54.76 - Coral Pearl: Departure ballast to Braefoot Bay 
+55.53 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+56.12 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+56.24 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+56.63 - Coral Patula: cargo.39 discharged in Antwerp 
+56.63 - Coral Patula: Departure ballast to Le Havre 
+56.70 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+57.55 - Coral Patula: Arrive ballast at Le Havre (Distance: 247 NM, Travel time: 0.93 days) 
+57.67 - Coral Parensis: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+57.72 - Coral Lophelia: cargo.40 discharged in Antwerp 
+57.72 - Coral Lophelia: Departure ballast to Braefoot Bay 
+57.94 - Coral Alameda: cargo.42 loaded at Rafnes, Departure laden to Antwerp 
+58.22 - Coral Pearl: cargo.43 loaded at Braefoot Bay, Departure laden to Antwerp 
+59.24 - Coral Patula: cargo.44 loaded at Le Havre, Departure laden to Antwerp 
+59.35 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+59.57 - Coral Parensis: cargo.41 loaded at Porvoo, Departure laden to Stenungsund 
+59.85 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+60.09 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+60.16 - Coral Patula: Arrive laden at Antwerp (Distance: 247 NM, Travel time: 0.93 days) 
+60.73 - Coral Lophelia: cargo.45 loaded at Braefoot Bay, Departure laden to Antwerp 
+61.58 - Coral Patula: cargo.44 discharged in Antwerp 
+61.58 - Coral Patula: Departure ballast to Braefoot Bay 
+61.63 - Coral Alameda: cargo.42 discharged in Antwerp 
+61.63 - Coral Alameda: Departure ballast to Rafnes 
+61.76 - Coral Pearl: cargo.43 discharged in Antwerp 
+61.76 - Coral Pearl: Departure ballast to Braefoot Bay 
+62.29 - Coral Parensis: Arrive laden at Stenungsund (Distance: 725 NM, Travel time: 2.72 days) 
+62.36 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+63.21 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+63.39 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+63.47 - Coral Lophelia: cargo.45 discharged in Antwerp 
+63.47 - Coral Lophelia: Departure ballast to Braefoot Bay 
+63.49 - Coral Parensis: cargo.41 discharged in Stenungsund 
+63.49 - Coral Parensis: Departure ballast to Rafnes 
+63.78 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+63.91 - Coral Parensis: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+64.49 - Coral Patula: cargo.46 loaded at Braefoot Bay, Departure laden to Antwerp 
+65.10 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+65.23 - Coral Alameda: cargo.47 loaded at Rafnes, Departure laden to Antwerp 
+65.25 - Coral Pearl: cargo.48 loaded at Braefoot Bay, Departure laden to Antwerp 
+65.26 - Coral Parensis: cargo.50 loaded at Rafnes, Departure laden to Stenungsund 
+65.68 - Coral Parensis: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+66.12 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+66.66 - Coral Lophelia: cargo.49 loaded at Braefoot Bay, Departure laden to Antwerp 
+66.88 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+67.06 - Coral Parensis: cargo.50 discharged in Stenungsund 
+67.06 - Coral Parensis: Departure ballast to Braefoot Bay 
+67.37 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+67.65 - Coral Patula: cargo.46 discharged in Antwerp 
+67.65 - Coral Patula: Departure ballast to Braefoot Bay 
+67.99 - Coral Pearl: cargo.48 discharged in Antwerp 
+67.99 - Coral Pearl: Departure ballast to Braefoot Bay 
+68.30 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+68.96 - Coral Alameda: cargo.47 discharged in Antwerp 
+68.96 - Coral Alameda: Departure ballast to Braefoot Bay 
+69.00 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+69.29 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+69.62 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+69.73 - Coral Lophelia: cargo.49 discharged in Antwerp 
+69.73 - Coral Lophelia: Departure ballast to Rafnes 
+70.38 - Coral Parensis: cargo.51 loaded at Braefoot Bay, Departure laden to Antwerp 
+70.59 - Coral Patula: cargo.52 loaded at Braefoot Bay, Departure laden to Antwerp 
+70.59 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+71.26 - Coral Pearl: cargo.53 loaded at Braefoot Bay, Departure laden to Antwerp 
+71.87 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+72.02 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+72.17 - Coral Alameda: cargo.54 loaded at Braefoot Bay, Departure laden to Antwerp 
+72.22 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+72.89 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+73.19 - Coral Parensis: cargo.51 discharged in Antwerp 
+73.19 - Coral Parensis: Departure ballast to Braefoot Bay 
+73.35 - Coral Patula: cargo.52 discharged in Antwerp 
+73.35 - Coral Patula: Departure ballast to Porvoo 
+73.81 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+73.88 - Coral Lophelia: cargo.55 loaded at Rafnes, Departure laden to Stenungsund 
+74.30 - Coral Lophelia: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+74.35 - Coral Pearl: cargo.53 discharged in Antwerp 
+74.35 - Coral Pearl: Departure ballast to Braefoot Bay 
+74.82 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+75.04 - Coral Alameda: cargo.54 discharged in Antwerp 
+75.04 - Coral Alameda: Departure ballast to Rafnes 
+75.98 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+76.22 - Coral Lophelia: cargo.55 discharged in Stenungsund 
+76.22 - Coral Lophelia: Departure ballast to Braefoot Bay 
+76.24 - Coral Parensis: cargo.56 loaded at Braefoot Bay, Departure laden to Antwerp 
+77.18 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+77.66 - Coral Pearl: cargo.58 loaded at Braefoot Bay, Departure laden to Antwerp 
+77.87 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+77.98 - Coral Patula: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+78.16 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+79.19 - Coral Alameda: cargo.59 loaded at Rafnes, Departure laden to Antwerp 
+79.29 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+79.55 - Coral Parensis: cargo.56 discharged in Antwerp 
+79.55 - Coral Parensis: Departure ballast to Braefoot Bay 
+79.56 - Coral Patula: cargo.57 loaded at Porvoo, Departure laden to Stenungsund 
+79.58 - Coral Lophelia: cargo.60 loaded at Braefoot Bay, Departure laden to Antwerp 
+80.85 - Coral Pearl: cargo.58 discharged in Antwerp 
+80.85 - Coral Pearl: Departure ballast to Rafnes 
+81.19 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+81.21 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+81.34 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+82.27 - Coral Patula: Arrive laden at Stenungsund (Distance: 725 NM, Travel time: 2.72 days) 
+82.35 - Coral Lophelia: cargo.60 discharged in Antwerp 
+82.35 - Coral Lophelia: Departure ballast to Braefoot Bay 
+82.70 - Coral Alameda: cargo.59 discharged in Antwerp 
+82.70 - Coral Alameda: Departure ballast to Braefoot Bay 
+82.94 - Coral Parensis: cargo.61 loaded at Braefoot Bay, Departure laden to Antwerp 
+82.99 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+83.78 - Coral Patula: cargo.57 discharged in Stenungsund 
+83.78 - Coral Patula: Departure ballast to Rafnes 
+83.99 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+84.20 - Coral Patula: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+84.33 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+84.54 - Coral Pearl: cargo.62 loaded at Rafnes, Departure laden to Stenungsund 
+84.58 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+84.96 - Coral Pearl: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+85.24 - Coral Patula: cargo.65 loaded at Rafnes, Departure laden to Antwerp 
+85.79 - Coral Lophelia: cargo.63 loaded at Braefoot Bay, Departure laden to Antwerp 
+85.85 - Coral Alameda: cargo.64 loaded at Braefoot Bay, Departure laden to Antwerp 
+86.20 - Coral Pearl: cargo.62 discharged in Stenungsund 
+86.20 - Coral Pearl: Departure ballast to Braefoot Bay 
+86.61 - Coral Parensis: cargo.61 discharged in Antwerp 
+86.61 - Coral Parensis: Departure ballast to Braefoot Bay 
+87.39 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+87.42 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+87.48 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+88.14 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+88.24 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+89.09 - Coral Alameda: cargo.64 discharged in Antwerp 
+89.09 - Coral Alameda: Departure ballast to Porvoo 
+89.35 - Coral Parensis: cargo.67 loaded at Braefoot Bay, Departure laden to Antwerp 
+89.40 - Coral Patula: cargo.65 discharged in Antwerp 
+89.40 - Coral Patula: Departure ballast to Rafnes 
+89.47 - Coral Lophelia: cargo.63 discharged in Antwerp 
+89.47 - Coral Lophelia: Departure ballast to Braefoot Bay 
+89.86 - Coral Pearl: cargo.66 loaded at Braefoot Bay, Departure laden to Antwerp 
+90.98 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+91.10 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+91.49 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+91.55 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+92.36 - Coral Parensis: cargo.67 discharged in Antwerp 
+92.36 - Coral Parensis: Departure ballast to Braefoot Bay 
+93.18 - Coral Lophelia: cargo.70 loaded at Braefoot Bay, Departure laden to Antwerp 
+93.23 - Coral Pearl: cargo.66 discharged in Antwerp 
+93.23 - Coral Pearl: Departure ballast to Rafnes 
+93.45 - Coral Patula: cargo.69 loaded at Rafnes, Departure laden to Antwerp 
+93.71 - Coral Alameda: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+93.99 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+94.81 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+95.37 - Coral Alameda: cargo.68 loaded at Porvoo, Departure laden to Antwerp 
+95.38 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+95.58 - Coral Parensis: cargo.71 loaded at Braefoot Bay, Departure laden to Antwerp 
+95.60 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+95.95 - Coral Lophelia: cargo.70 discharged in Antwerp 
+95.95 - Coral Lophelia: Departure ballast to Braefoot Bay 
+97.15 - Coral Pearl: cargo.72 loaded at Rafnes, Departure laden to Stenungsund 
+97.21 - Coral Patula: cargo.69 discharged in Antwerp 
+97.21 - Coral Patula: Departure ballast to Braefoot Bay 
+97.21 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+97.57 - Coral Pearl: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+97.58 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+98.37 - Coral Parensis: cargo.71 discharged in Antwerp 
+98.37 - Coral Parensis: Departure ballast to Rafnes 
+98.41 - Coral Pearl: cargo.72 discharged in Stenungsund 
+98.41 - Coral Pearl: Departure ballast to Braefoot Bay 
+98.84 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+99.08 - Coral Lophelia: cargo.73 loaded at Braefoot Bay, Departure laden to Antwerp 
+100.00 - Coral Alameda: Arrive laden at Antwerp (Distance: 1234 NM, Travel time: 4.63 days) 
+100.26 - Coral Patula: cargo.74 loaded at Braefoot Bay, Departure laden to Antwerp 
+100.35 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+100.52 - Coral Parensis: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+100.71 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+101.39 - Coral Alameda: cargo.68 discharged in Antwerp 
+101.39 - Coral Alameda: Departure ballast to Rafnes 
+101.89 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+102.00 - Coral Pearl: cargo.76 loaded at Braefoot Bay, Departure laden to Antwerp 
+102.17 - Coral Lophelia: cargo.73 discharged in Antwerp 
+102.17 - Coral Lophelia: Departure ballast to Braefoot Bay 
+102.19 - Coral Parensis: cargo.75 loaded at Rafnes, Departure laden to Antwerp 
+102.69 - Coral Patula: cargo.74 discharged in Antwerp 
+102.69 - Coral Patula: Departure ballast to Braefoot Bay 
+103.54 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+103.63 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+103.80 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+104.32 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+104.34 - Coral Parensis: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+105.03 - Coral Alameda: cargo.77 loaded at Rafnes, Departure laden to Antwerp 
+105.30 - Coral Pearl: cargo.76 discharged in Antwerp 
+105.30 - Coral Pearl: Departure ballast to Porvoo 
+105.32 - Coral Lophelia: cargo.78 loaded at Braefoot Bay, Departure laden to Antwerp 
+105.97 - Coral Parensis: cargo.75 discharged in Antwerp 
+105.97 - Coral Parensis: Departure ballast to Braefoot Bay 
+106.21 - Coral Patula: cargo.79 loaded at Braefoot Bay, Departure laden to Antwerp 
+106.95 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+107.18 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+107.60 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+107.84 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+108.59 - Coral Alameda: cargo.77 discharged in Antwerp 
+108.59 - Coral Alameda: Departure ballast to Rafnes 
+108.76 - Coral Lophelia: cargo.78 discharged in Antwerp 
+108.76 - Coral Lophelia: Departure ballast to Le Havre 
+109.38 - Coral Parensis: cargo.81 loaded at Braefoot Bay, Departure laden to Antwerp 
+109.44 - Coral Patula: cargo.79 discharged in Antwerp 
+109.44 - Coral Patula: Departure ballast to Braefoot Bay 
+109.68 - Coral Lophelia: Arrive ballast at Le Havre (Distance: 247 NM, Travel time: 0.93 days) 
+109.93 - Coral Pearl: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+110.74 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+111.01 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+111.07 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+111.39 - Coral Pearl: cargo.80 loaded at Porvoo, Departure laden to Stenungsund 
+111.42 - Coral Lophelia: cargo.83 loaded at Le Havre, Departure laden to Antwerp 
+112.28 - Coral Parensis: cargo.81 discharged in Antwerp 
+112.28 - Coral Parensis: Departure ballast to Braefoot Bay 
+112.35 - Coral Lophelia: Arrive laden at Antwerp (Distance: 247 NM, Travel time: 0.93 days) 
+112.36 - Coral Patula: cargo.84 loaded at Braefoot Bay, Departure laden to Antwerp 
+112.39 - Coral Alameda: cargo.82 loaded at Rafnes, Departure laden to Antwerp 
+113.74 - Coral Lophelia: cargo.83 discharged in Antwerp 
+113.74 - Coral Lophelia: Departure ballast to Rafnes 
+113.91 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+113.99 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+114.10 - Coral Pearl: Arrive laden at Stenungsund (Distance: 725 NM, Travel time: 2.72 days) 
+114.53 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+115.66 - Coral Patula: cargo.84 discharged in Antwerp 
+115.66 - Coral Patula: Departure ballast to Braefoot Bay 
+115.78 - Coral Pearl: cargo.80 discharged in Stenungsund 
+115.78 - Coral Pearl: Departure ballast to Rafnes 
+115.89 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+116.02 - Coral Parensis: cargo.85 loaded at Braefoot Bay, Departure laden to Antwerp 
+116.20 - Coral Pearl: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+116.32 - Coral Alameda: cargo.82 discharged in Antwerp 
+116.32 - Coral Alameda: Departure ballast to Braefoot Bay 
+117.29 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+117.42 - Coral Lophelia: cargo.86 loaded at Rafnes, Departure laden to Stenungsund 
+117.65 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+117.82 - Coral Pearl: cargo.88 loaded at Rafnes, Departure laden to Stade 
+117.84 - Coral Lophelia: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+117.95 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+118.69 - Coral Parensis: cargo.85 discharged in Antwerp 
+118.69 - Coral Parensis: Departure ballast to Braefoot Bay 
+118.81 - Coral Patula: cargo.87 loaded at Braefoot Bay, Departure laden to Antwerp 
+119.27 - Coral Pearl: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+119.34 - Coral Lophelia: cargo.86 discharged in Stenungsund 
+119.34 - Coral Lophelia: Departure ballast to Braefoot Bay 
+119.54 - Coral Alameda: cargo.89 loaded at Braefoot Bay, Departure laden to Antwerp 
+120.32 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+120.44 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+120.86 - Coral Pearl: cargo.88 discharged in Stade 
+120.86 - Coral Pearl: Departure ballast to Rafnes 
+121.17 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+121.28 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+121.55 - Coral Patula: cargo.87 discharged in Antwerp 
+121.55 - Coral Patula: Departure ballast to Braefoot Bay 
+121.72 - Coral Parensis: cargo.90 loaded at Braefoot Bay, Departure laden to Antwerp 
+122.30 - Coral Pearl: Arrive ballast at Rafnes (Distance: 385 NM, Travel time: 1.44 days) 
+122.69 - Coral Lophelia: cargo.91 loaded at Braefoot Bay, Departure laden to Antwerp 
+122.98 - Coral Alameda: cargo.89 discharged in Antwerp 
+122.98 - Coral Alameda: Departure ballast to Rafnes 
+123.18 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+123.35 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+123.90 - Coral Pearl: cargo.92 loaded at Rafnes, Departure laden to Antwerp 
+124.32 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+124.48 - Coral Patula: cargo.93 loaded at Braefoot Bay, Departure laden to Antwerp 
+124.80 - Coral Parensis: cargo.90 discharged in Antwerp 
+124.80 - Coral Parensis: Departure ballast to Braefoot Bay 
+125.12 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+126.00 - Coral Lophelia: cargo.91 discharged in Antwerp 
+126.00 - Coral Lophelia: Departure ballast to Porvoo 
+126.04 - Coral Pearl: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+126.11 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+126.44 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+126.63 - Coral Alameda: cargo.94 loaded at Rafnes, Departure laden to Stenungsund 
+127.05 - Coral Alameda: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+127.72 - Coral Pearl: cargo.92 discharged in Antwerp 
+127.72 - Coral Pearl: Departure ballast to Braefoot Bay 
+127.93 - Coral Patula: cargo.93 discharged in Antwerp 
+127.93 - Coral Patula: Departure ballast to Braefoot Bay 
+128.37 - Coral Parensis: cargo.95 loaded at Braefoot Bay, Departure laden to Antwerp 
+128.98 - Coral Alameda: cargo.94 discharged in Stenungsund 
+128.98 - Coral Alameda: Departure ballast to Rafnes 
+129.35 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+129.40 - Coral Alameda: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+129.56 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+130.00 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+130.63 - Coral Lophelia: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+130.68 - Coral Alameda: cargo.99 loaded at Rafnes, Departure laden to Antwerp 
+130.96 - Coral Pearl: cargo.97 loaded at Braefoot Bay, Departure laden to Antwerp 
+131.36 - Coral Patula: cargo.98 loaded at Braefoot Bay, Departure laden to Antwerp 
+131.69 - Coral Lophelia: cargo.96 loaded at Porvoo, Departure laden to Stenungsund 
+131.71 - Coral Parensis: cargo.95 discharged in Antwerp 
+131.71 - Coral Parensis: Departure ballast to Braefoot Bay 
+132.59 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+132.82 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+132.99 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+133.34 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+133.88 - Coral Pearl: cargo.97 discharged in Antwerp 
+133.88 - Coral Pearl: Departure ballast to Braefoot Bay 
+134.31 - Coral Alameda: cargo.99 discharged in Antwerp 
+134.31 - Coral Alameda: Departure ballast to Braefoot Bay 
+134.41 - Coral Lophelia: Arrive laden at Stenungsund (Distance: 725 NM, Travel time: 2.72 days) 
+134.59 - Coral Patula: cargo.98 discharged in Antwerp 
+134.59 - Coral Patula: Departure ballast to Rafnes 
+134.93 - Coral Parensis: cargo.100 loaded at Braefoot Bay, Departure laden to Antwerp 
+135.51 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+135.94 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+136.11 - Coral Lophelia: cargo.96 discharged in Stenungsund 
+136.11 - Coral Lophelia: Departure ballast to Braefoot Bay 
+136.57 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+136.73 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+136.76 - Coral Pearl: cargo.101 loaded at Braefoot Bay, Departure laden to Antwerp 
+137.03 - Coral Alameda: cargo.102 loaded at Braefoot Bay, Departure laden to Antwerp 
+138.05 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+138.08 - Coral Parensis: cargo.100 discharged in Antwerp 
+138.08 - Coral Parensis: Departure ballast to Braefoot Bay 
+138.39 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+138.66 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+138.69 - Coral Patula: cargo.103 loaded at Rafnes, Departure laden to Stade 
+139.36 - Coral Lophelia: cargo.104 loaded at Braefoot Bay, Departure laden to Antwerp 
+139.71 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+139.76 - Coral Pearl: cargo.101 discharged in Antwerp 
+139.76 - Coral Pearl: Departure ballast to Braefoot Bay 
+140.07 - Coral Alameda: cargo.102 discharged in Antwerp 
+140.07 - Coral Alameda: Departure ballast to Rafnes 
+140.13 - Coral Patula: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+140.75 - Coral Parensis: cargo.105 loaded at Braefoot Bay, Departure laden to Antwerp 
+141.00 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+141.40 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+141.82 - Coral Patula: cargo.103 discharged in Stade 
+141.82 - Coral Patula: Departure ballast to Braefoot Bay 
+142.21 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+142.38 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+142.45 - Coral Pearl: cargo.106 loaded at Braefoot Bay, Departure laden to Antwerp 
+142.50 - Coral Lophelia: cargo.104 discharged in Antwerp 
+142.50 - Coral Lophelia: Departure ballast to Braefoot Bay 
+143.56 - Coral Alameda: cargo.107 loaded at Rafnes, Departure laden to Antwerp 
+143.62 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+143.86 - Coral Parensis: cargo.105 discharged in Antwerp 
+143.86 - Coral Parensis: Departure ballast to Porvoo 
+144.08 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+144.13 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+145.21 - Coral Patula: cargo.108 loaded at Braefoot Bay, Departure laden to Antwerp 
+145.71 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+145.95 - Coral Pearl: cargo.106 discharged in Antwerp 
+145.95 - Coral Pearl: Departure ballast to Rafnes 
+145.97 - Coral Lophelia: cargo.109 loaded at Braefoot Bay, Departure laden to Antwerp 
+146.84 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+147.16 - Coral Alameda: cargo.107 discharged in Antwerp 
+147.16 - Coral Alameda: Departure ballast to Braefoot Bay 
+147.60 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+148.10 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+148.49 - Coral Parensis: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+148.53 - Coral Patula: cargo.108 discharged in Antwerp 
+148.53 - Coral Patula: Departure ballast to Braefoot Bay 
+148.79 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+149.12 - Coral Lophelia: cargo.109 discharged in Antwerp 
+149.12 - Coral Lophelia: Departure ballast to Rafnes 
+149.57 - Coral Pearl: cargo.111 loaded at Rafnes, Departure laden to Stenungsund 
+149.82 - Coral Parensis: cargo.110 loaded at Porvoo, Departure laden to Antwerp 
+149.99 - Coral Pearl: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+150.17 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+150.25 - Coral Alameda: cargo.112 loaded at Braefoot Bay, Departure laden to Antwerp 
+151.27 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+151.51 - Coral Patula: cargo.113 loaded at Braefoot Bay, Departure laden to Antwerp 
+151.73 - Coral Pearl: cargo.111 discharged in Stenungsund 
+151.73 - Coral Pearl: Departure ballast to Braefoot Bay 
+151.88 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+153.11 - Coral Lophelia: cargo.114 loaded at Rafnes, Departure laden to Stade 
+153.15 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+153.67 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+153.76 - Coral Alameda: cargo.112 discharged in Antwerp 
+153.76 - Coral Alameda: Departure ballast to Le Havre 
+154.44 - Coral Parensis: Arrive laden at Antwerp (Distance: 1234 NM, Travel time: 4.63 days) 
+154.56 - Coral Lophelia: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+154.57 - Coral Patula: cargo.113 discharged in Antwerp 
+154.57 - Coral Patula: Departure ballast to Braefoot Bay 
+154.68 - Coral Alameda: Arrive ballast at Le Havre (Distance: 247 NM, Travel time: 0.93 days) 
+155.22 - Coral Pearl: cargo.115 loaded at Braefoot Bay, Departure laden to Antwerp 
+155.99 - Coral Parensis: cargo.110 discharged in Antwerp 
+155.99 - Coral Parensis: Departure ballast to Rafnes 
+156.02 - Coral Lophelia: cargo.114 discharged in Stade 
+156.02 - Coral Lophelia: Departure ballast to Braefoot Bay 
+156.14 - Coral Alameda: cargo.116 loaded at Le Havre, Departure laden to Antwerp 
+156.20 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+156.86 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+157.06 - Coral Alameda: Arrive laden at Antwerp (Distance: 247 NM, Travel time: 0.93 days) 
+157.69 - Coral Patula: cargo.117 loaded at Braefoot Bay, Departure laden to Antwerp 
+157.82 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+158.13 - Coral Parensis: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+158.44 - Coral Alameda: cargo.116 discharged in Antwerp 
+158.44 - Coral Alameda: Departure ballast to Braefoot Bay 
+158.50 - Coral Pearl: cargo.115 discharged in Antwerp 
+158.50 - Coral Pearl: Departure ballast to Rafnes 
+159.05 - Coral Lophelia: cargo.119 loaded at Braefoot Bay, Departure laden to Antwerp 
+159.29 - Coral Parensis: cargo.118 loaded at Rafnes, Departure laden to Stenungsund 
+159.32 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+159.71 - Coral Parensis: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+160.07 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+160.65 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+160.68 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+160.85 - Coral Parensis: cargo.118 discharged in Stenungsund 
+160.85 - Coral Parensis: Departure ballast to Braefoot Bay 
+160.93 - Coral Patula: cargo.117 discharged in Antwerp 
+160.93 - Coral Patula: Departure ballast to Braefoot Bay 
+161.52 - Coral Alameda: cargo.120 loaded at Braefoot Bay, Departure laden to Antwerp 
+161.89 - Coral Pearl: cargo.121 loaded at Rafnes, Departure laden to Antwerp 
+162.04 - Coral Lophelia: cargo.119 discharged in Antwerp 
+162.04 - Coral Lophelia: Departure ballast to Braefoot Bay 
+162.56 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+162.79 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+163.15 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+163.67 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+163.98 - Coral Patula: cargo.123 loaded at Braefoot Bay, Departure laden to Antwerp 
+164.04 - Coral Pearl: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+164.30 - Coral Parensis: cargo.122 loaded at Braefoot Bay, Departure laden to Antwerp 
+164.57 - Coral Alameda: cargo.120 discharged in Antwerp 
+164.57 - Coral Alameda: Departure ballast to Rafnes 
+164.73 - Coral Lophelia: cargo.124 loaded at Braefoot Bay, Departure laden to Antwerp 
+165.61 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+165.66 - Coral Pearl: cargo.121 discharged in Antwerp 
+165.66 - Coral Pearl: Departure ballast to Braefoot Bay 
+165.93 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+166.36 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+166.72 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+167.29 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+167.34 - Coral Patula: cargo.123 discharged in Antwerp 
+167.34 - Coral Patula: Departure ballast to Braefoot Bay 
+167.52 - Coral Parensis: cargo.122 discharged in Antwerp 
+167.52 - Coral Parensis: Departure ballast to Porvoo 
+167.61 - Coral Lophelia: cargo.124 discharged in Antwerp 
+167.61 - Coral Lophelia: Departure ballast to Braefoot Bay 
+167.72 - Coral Alameda: cargo.125 loaded at Rafnes, Departure laden to Antwerp 
+168.86 - Coral Pearl: cargo.126 loaded at Braefoot Bay, Departure laden to Antwerp 
+168.97 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+169.24 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+169.87 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+170.49 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+170.50 - Coral Patula: cargo.127 loaded at Braefoot Bay, Departure laden to Antwerp 
+170.80 - Coral Lophelia: cargo.129 loaded at Braefoot Bay, Departure laden to Antwerp 
+171.53 - Coral Alameda: cargo.125 discharged in Antwerp 
+171.53 - Coral Alameda: Departure ballast to Rafnes 
+172.14 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+172.15 - Coral Parensis: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+172.34 - Coral Pearl: cargo.126 discharged in Antwerp 
+172.34 - Coral Pearl: Departure ballast to Braefoot Bay 
+172.43 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+173.36 - Coral Parensis: cargo.128 loaded at Porvoo, Departure laden to Stade 
+173.52 - Coral Patula: cargo.127 discharged in Antwerp 
+173.52 - Coral Patula: Departure ballast to Braefoot Bay 
+173.67 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+173.78 - Coral Lophelia: cargo.129 discharged in Antwerp 
+173.78 - Coral Lophelia: Departure ballast to Braefoot Bay 
+173.97 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+175.09 - Coral Alameda: cargo.130 loaded at Rafnes, Departure laden to Stenungsund 
+175.15 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+175.42 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+175.51 - Coral Alameda: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+175.69 - Coral Pearl: cargo.131 loaded at Braefoot Bay, Departure laden to Antwerp 
+176.77 - Coral Patula: cargo.132 loaded at Braefoot Bay, Departure laden to Antwerp 
+176.81 - Coral Lophelia: cargo.133 loaded at Braefoot Bay, Departure laden to Antwerp 
+177.21 - Coral Alameda: cargo.130 discharged in Stenungsund 
+177.21 - Coral Alameda: Departure ballast to Braefoot Bay 
+177.29 - Coral Parensis: Arrive laden at Stade (Distance: 1047 NM, Travel time: 3.93 days) 
+177.32 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+178.40 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+178.44 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+178.73 - Coral Parensis: cargo.128 discharged in Stade 
+178.73 - Coral Parensis: Departure ballast to Rafnes 
+178.82 - Coral Pearl: cargo.131 discharged in Antwerp 
+178.82 - Coral Pearl: Departure ballast to Braefoot Bay 
+179.15 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+180.15 - Coral Lophelia: cargo.133 discharged in Antwerp 
+180.15 - Coral Lophelia: Departure ballast to Braefoot Bay 
+180.17 - Coral Parensis: Arrive ballast at Rafnes (Distance: 385 NM, Travel time: 1.44 days) 
+180.34 - Coral Patula: cargo.132 discharged in Antwerp 
+180.34 - Coral Patula: Departure ballast to Rafnes 
+180.45 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+180.73 - Coral Alameda: cargo.134 loaded at Braefoot Bay, Departure laden to Antwerp 
+181.31 - Coral Parensis: cargo.135 loaded at Rafnes, Departure laden to Stade 
+181.79 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+182.36 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+182.41 - Coral Pearl: cargo.136 loaded at Braefoot Bay, Departure laden to Antwerp 
+182.48 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+182.75 - Coral Parensis: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+183.69 - Coral Patula: cargo.138 loaded at Rafnes, Departure laden to Antwerp 
+183.74 - Coral Lophelia: cargo.137 loaded at Braefoot Bay, Departure laden to Antwerp 
+183.88 - Coral Alameda: cargo.134 discharged in Antwerp 
+183.88 - Coral Alameda: Departure ballast to Braefoot Bay 
+184.04 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+184.27 - Coral Parensis: cargo.135 discharged in Stade 
+184.27 - Coral Parensis: Departure ballast to Porvoo 
+185.37 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+185.51 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+185.68 - Coral Pearl: cargo.136 discharged in Antwerp 
+185.68 - Coral Pearl: Departure ballast to Braefoot Bay 
+185.83 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+186.64 - Coral Alameda: cargo.139 loaded at Braefoot Bay, Departure laden to Antwerp 
+186.80 - Coral Lophelia: cargo.137 discharged in Antwerp 
+186.80 - Coral Lophelia: Departure ballast to Rafnes 
+187.31 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+187.52 - Coral Patula: cargo.138 discharged in Antwerp 
+187.52 - Coral Patula: Departure ballast to Braefoot Bay 
+188.20 - Coral Parensis: Arrive ballast at Porvoo (Distance: 1047 NM, Travel time: 3.93 days) 
+188.27 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+188.92 - Coral Pearl: cargo.141 loaded at Braefoot Bay, Departure laden to Antwerp 
+188.95 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+189.15 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+189.52 - Coral Parensis: cargo.140 loaded at Porvoo, Departure laden to Stenungsund 
+190.26 - Coral Lophelia: cargo.142 loaded at Rafnes, Departure laden to Stenungsund 
+190.37 - Coral Alameda: cargo.139 discharged in Antwerp 
+190.37 - Coral Alameda: Departure ballast to Braefoot Bay 
+190.55 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+190.68 - Coral Lophelia: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+191.37 - Coral Patula: cargo.143 loaded at Braefoot Bay, Departure laden to Antwerp 
+192.00 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+192.07 - Coral Pearl: cargo.141 discharged in Antwerp 
+192.07 - Coral Pearl: Departure ballast to Rafnes 
+192.12 - Coral Lophelia: cargo.142 discharged in Stenungsund 
+192.12 - Coral Lophelia: Departure ballast to Le Havre 
+192.24 - Coral Parensis: Arrive laden at Stenungsund (Distance: 725 NM, Travel time: 2.72 days) 
+193.00 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+193.65 - Coral Alameda: cargo.144 loaded at Braefoot Bay, Departure laden to Antwerp 
+193.65 - Coral Parensis: cargo.140 discharged in Stenungsund 
+193.65 - Coral Parensis: Departure ballast to Braefoot Bay 
+194.22 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+194.70 - Coral Lophelia: Arrive ballast at Le Havre (Distance: 688 NM, Travel time: 2.58 days) 
+194.99 - Coral Patula: cargo.143 discharged in Antwerp 
+194.99 - Coral Patula: Departure ballast to Braefoot Bay 
+195.28 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+195.54 - Coral Pearl: cargo.145 loaded at Rafnes, Departure laden to Antwerp 
+195.59 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+196.45 - Coral Lophelia: cargo.146 loaded at Le Havre, Departure laden to Antwerp 
+196.59 - Coral Parensis: cargo.147 loaded at Braefoot Bay, Departure laden to Antwerp 
+196.62 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+196.67 - Coral Alameda: cargo.144 discharged in Antwerp 
+196.67 - Coral Alameda: Departure ballast to Braefoot Bay 
+197.38 - Coral Lophelia: Arrive laden at Antwerp (Distance: 247 NM, Travel time: 0.93 days) 
+197.68 - Coral Pearl: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+197.73 - Coral Patula: cargo.148 loaded at Braefoot Bay, Departure laden to Antwerp 
+198.22 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+198.30 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+198.88 - Coral Lophelia: cargo.146 discharged in Antwerp 
+198.88 - Coral Lophelia: Departure ballast to Rafnes 
+199.36 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+199.42 - Coral Parensis: cargo.147 discharged in Antwerp 
+199.42 - Coral Parensis: Departure ballast to Braefoot Bay 
+199.43 - Coral Pearl: cargo.145 discharged in Antwerp 
+199.43 - Coral Pearl: Departure ballast to Braefoot Bay 
+199.44 - Coral Alameda: cargo.149 loaded at Braefoot Bay, Departure laden to Antwerp 
+201.03 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+201.05 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+201.06 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+201.07 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+201.17 - Coral Patula: cargo.148 discharged in Antwerp 
+201.17 - Coral Patula: Departure ballast to Braefoot Bay 
+202.31 - Coral Alameda: cargo.149 discharged in Antwerp 
+202.31 - Coral Alameda: Departure ballast to Rafnes 
+202.51 - Coral Parensis: cargo.151 loaded at Braefoot Bay, Departure laden to Antwerp 
+202.66 - Coral Lophelia: cargo.150 loaded at Rafnes, Departure laden to Stenungsund 
+202.75 - Coral Pearl: cargo.152 loaded at Braefoot Bay, Departure laden to Antwerp 
+202.80 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+203.08 - Coral Lophelia: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+204.15 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+204.38 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+204.41 - Coral Lophelia: cargo.150 discharged in Stenungsund 
+204.41 - Coral Lophelia: Departure ballast to Porvoo 
+204.45 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+204.49 - Coral Patula: cargo.153 loaded at Braefoot Bay, Departure laden to Antwerp 
+205.77 - Coral Pearl: cargo.152 discharged in Antwerp 
+205.77 - Coral Pearl: Departure ballast to Braefoot Bay 
+205.85 - Coral Parensis: cargo.151 discharged in Antwerp 
+205.85 - Coral Parensis: Departure ballast to Braefoot Bay 
+206.11 - Coral Alameda: cargo.154 loaded at Rafnes, Departure laden to Antwerp 
+206.12 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+207.13 - Coral Lophelia: Arrive ballast at Porvoo (Distance: 725 NM, Travel time: 2.72 days) 
+207.40 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+207.48 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+207.52 - Coral Patula: cargo.153 discharged in Antwerp 
+207.52 - Coral Patula: Departure ballast to Rafnes 
+208.25 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+208.27 - Coral Lophelia: cargo.155 loaded at Porvoo, Departure laden to Stade 
+208.80 - Coral Parensis: cargo.157 loaded at Braefoot Bay, Departure laden to Antwerp 
+209.07 - Coral Pearl: cargo.156 loaded at Braefoot Bay, Departure laden to Antwerp 
+209.66 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+209.98 - Coral Alameda: cargo.154 discharged in Antwerp 
+209.98 - Coral Alameda: Departure ballast to Braefoot Bay 
+210.43 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+210.70 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+210.72 - Coral Patula: cargo.158 loaded at Rafnes, Departure laden to Antwerp 
+211.61 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+211.96 - Coral Pearl: cargo.156 discharged in Antwerp 
+211.96 - Coral Pearl: Departure ballast to Braefoot Bay 
+212.19 - Coral Lophelia: Arrive laden at Stade (Distance: 1047 NM, Travel time: 3.93 days) 
+212.20 - Coral Parensis: cargo.157 discharged in Antwerp 
+212.20 - Coral Parensis: Departure ballast to Rafnes 
+212.87 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+213.04 - Coral Alameda: cargo.159 loaded at Braefoot Bay, Departure laden to Antwerp 
+213.59 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+213.99 - Coral Lophelia: cargo.155 discharged in Stade 
+213.99 - Coral Lophelia: Departure ballast to Braefoot Bay 
+214.15 - Coral Patula: cargo.158 discharged in Antwerp 
+214.15 - Coral Patula: Departure ballast to Braefoot Bay 
+214.35 - Coral Parensis: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+214.67 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+215.67 - Coral Pearl: cargo.160 loaded at Braefoot Bay, Departure laden to Antwerp 
+215.76 - Coral Parensis: cargo.161 loaded at Rafnes, Departure laden to Antwerp 
+215.78 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+215.79 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+216.26 - Coral Alameda: cargo.159 discharged in Antwerp 
+216.26 - Coral Alameda: Departure ballast to Rafnes 
+217.27 - Coral Lophelia: cargo.162 loaded at Braefoot Bay, Departure laden to Antwerp 
+217.30 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+217.59 - Coral Patula: cargo.163 loaded at Braefoot Bay, Departure laden to Antwerp 
+217.91 - Coral Parensis: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+218.40 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+218.85 - Coral Pearl: cargo.160 discharged in Antwerp 
+218.85 - Coral Pearl: Departure ballast to Braefoot Bay 
+218.90 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+219.22 - Coral Parensis: cargo.161 discharged in Antwerp 
+219.22 - Coral Parensis: Departure ballast to Braefoot Bay 
+219.22 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+219.81 - Coral Alameda: cargo.164 loaded at Rafnes, Departure laden to Stenungsund 
+220.23 - Coral Alameda: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+220.37 - Coral Lophelia: cargo.162 discharged in Antwerp 
+220.37 - Coral Lophelia: Departure ballast to Porvoo 
+220.48 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+220.81 - Coral Patula: cargo.163 discharged in Antwerp 
+220.81 - Coral Patula: Departure ballast to Braefoot Bay 
+220.85 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+221.79 - Coral Alameda: cargo.164 discharged in Stenungsund 
+221.79 - Coral Alameda: Departure ballast to Rafnes 
+221.81 - Coral Pearl: cargo.165 loaded at Braefoot Bay, Departure laden to Antwerp 
+222.21 - Coral Alameda: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+222.42 - Coral Parensis: cargo.166 loaded at Braefoot Bay, Departure laden to Antwerp 
+222.44 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+223.44 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+223.51 - Coral Alameda: cargo.169 loaded at Rafnes, Departure laden to Antwerp 
+223.65 - Coral Patula: cargo.168 loaded at Braefoot Bay, Departure laden to Antwerp 
+224.06 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+225.00 - Coral Lophelia: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+225.28 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+225.43 - Coral Pearl: cargo.165 discharged in Antwerp 
+225.43 - Coral Pearl: Departure ballast to Braefoot Bay 
+225.60 - Coral Parensis: cargo.166 discharged in Antwerp 
+225.60 - Coral Parensis: Departure ballast to Braefoot Bay 
+225.65 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+226.27 - Coral Lophelia: cargo.167 loaded at Porvoo, Departure laden to Antwerp 
+226.41 - Coral Patula: cargo.168 discharged in Antwerp 
+226.41 - Coral Patula: Departure ballast to Rafnes 
+226.71 - Coral Alameda: cargo.169 discharged in Antwerp 
+226.71 - Coral Alameda: Departure ballast to Braefoot Bay 
+227.07 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+227.23 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+228.34 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+228.38 - Coral Pearl: cargo.170 loaded at Braefoot Bay, Departure laden to Antwerp 
+228.47 - Coral Parensis: cargo.171 loaded at Braefoot Bay, Departure laden to Antwerp 
+228.56 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+229.98 - Coral Alameda: cargo.173 loaded at Braefoot Bay, Departure laden to Antwerp 
+230.01 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+230.04 - Coral Patula: cargo.172 loaded at Rafnes, Departure laden to Stenungsund 
+230.10 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+230.46 - Coral Patula: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+230.90 - Coral Lophelia: Arrive laden at Antwerp (Distance: 1234 NM, Travel time: 4.63 days) 
+231.61 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+231.61 - Coral Pearl: cargo.170 discharged in Antwerp 
+231.61 - Coral Pearl: Departure ballast to Braefoot Bay 
+231.64 - Coral Parensis: cargo.171 discharged in Antwerp 
+231.64 - Coral Parensis: Departure ballast to Rafnes 
+231.90 - Coral Patula: cargo.172 discharged in Stenungsund 
+231.90 - Coral Patula: Departure ballast to Braefoot Bay 
+232.29 - Coral Lophelia: cargo.167 discharged in Antwerp 
+232.29 - Coral Lophelia: Departure ballast to Braefoot Bay 
+233.24 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+233.34 - Coral Alameda: cargo.173 discharged in Antwerp 
+233.34 - Coral Alameda: Departure ballast to Rafnes 
+233.78 - Coral Parensis: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+233.84 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+233.92 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+235.20 - Coral Pearl: cargo.174 loaded at Braefoot Bay, Departure laden to Antwerp 
+235.36 - Coral Parensis: cargo.175 loaded at Rafnes, Departure laden to Antwerp 
+235.48 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+235.48 - Coral Patula: cargo.176 loaded at Braefoot Bay, Departure laden to Antwerp 
+235.49 - Coral Lophelia: cargo.177 loaded at Braefoot Bay, Departure laden to Antwerp 
+236.65 - Coral Alameda: cargo.178 loaded at Rafnes, Departure laden to Antwerp 
+236.84 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+237.11 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+237.12 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+237.51 - Coral Parensis: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+238.18 - Coral Pearl: cargo.174 discharged in Antwerp 
+238.18 - Coral Pearl: Departure ballast to Braefoot Bay 
+238.73 - Coral Lophelia: cargo.177 discharged in Antwerp 
+238.73 - Coral Lophelia: Departure ballast to Porvoo 
+238.80 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+238.88 - Coral Patula: cargo.176 discharged in Antwerp 
+238.88 - Coral Patula: Departure ballast to Braefoot Bay 
+239.12 - Coral Parensis: cargo.175 discharged in Antwerp 
+239.12 - Coral Parensis: Departure ballast to Braefoot Bay 
+239.81 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+240.31 - Coral Alameda: cargo.178 discharged in Antwerp 
+240.31 - Coral Alameda: Departure ballast to Rafnes 
+240.51 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+240.75 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+241.41 - Coral Pearl: cargo.179 loaded at Braefoot Bay, Departure laden to Antwerp 
+242.00 - Coral Patula: cargo.181 loaded at Braefoot Bay, Departure laden to Antwerp 
+242.09 - Coral Parensis: cargo.182 loaded at Braefoot Bay, Departure laden to Antwerp 
+242.46 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+243.04 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+243.36 - Coral Lophelia: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+243.63 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+243.72 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+243.89 - Coral Alameda: cargo.183 loaded at Rafnes, Departure laden to Antwerp 
+244.32 - Coral Pearl: cargo.179 discharged in Antwerp 
+244.32 - Coral Pearl: Departure ballast to Braefoot Bay 
+244.71 - Coral Lophelia: cargo.180 loaded at Porvoo, Departure laden to Stenungsund 
+244.88 - Coral Patula: cargo.181 discharged in Antwerp 
+244.88 - Coral Patula: Departure ballast to Braefoot Bay 
+245.14 - Coral Parensis: cargo.182 discharged in Antwerp 
+245.14 - Coral Parensis: Departure ballast to Rafnes 
+245.95 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+246.04 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+246.51 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+247.23 - Coral Alameda: cargo.183 discharged in Antwerp 
+247.23 - Coral Alameda: Departure ballast to Braefoot Bay 
+247.29 - Coral Parensis: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+247.43 - Coral Lophelia: Arrive laden at Stenungsund (Distance: 725 NM, Travel time: 2.72 days) 
+247.53 - Coral Pearl: cargo.184 loaded at Braefoot Bay, Departure laden to Antwerp 
+248.17 - Coral Patula: cargo.185 loaded at Braefoot Bay, Departure laden to Antwerp 
+248.67 - Coral Parensis: cargo.186 loaded at Rafnes, Departure laden to Antwerp 
+248.86 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+249.09 - Coral Lophelia: cargo.180 discharged in Stenungsund 
+249.09 - Coral Lophelia: Departure ballast to Braefoot Bay 
+249.16 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+249.81 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+250.29 - Coral Alameda: cargo.187 loaded at Braefoot Bay, Departure laden to Antwerp 
+250.76 - Coral Pearl: cargo.184 discharged in Antwerp 
+250.76 - Coral Pearl: Departure ballast to Le Havre 
+250.81 - Coral Parensis: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+251.02 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+251.53 - Coral Patula: cargo.185 discharged in Antwerp 
+251.53 - Coral Patula: Departure ballast to Braefoot Bay 
+251.69 - Coral Pearl: Arrive ballast at Le Havre (Distance: 247 NM, Travel time: 0.93 days) 
+251.92 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+251.96 - Coral Parensis: cargo.186 discharged in Antwerp 
+251.96 - Coral Parensis: Departure ballast to Rafnes 
+252.13 - Coral Lophelia: cargo.188 loaded at Braefoot Bay, Departure laden to Antwerp 
+253.16 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+253.20 - Coral Pearl: cargo.189 loaded at Le Havre, Departure laden to Antwerp 
+253.68 - Coral Alameda: cargo.187 discharged in Antwerp 
+253.68 - Coral Alameda: Departure ballast to Porvoo 
+253.77 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+254.11 - Coral Parensis: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+254.13 - Coral Pearl: Arrive laden at Antwerp (Distance: 247 NM, Travel time: 0.93 days) 
+254.97 - Coral Patula: cargo.190 loaded at Braefoot Bay, Departure laden to Antwerp 
+255.43 - Coral Parensis: cargo.191 loaded at Rafnes, Departure laden to Stade 
+255.55 - Coral Lophelia: cargo.188 discharged in Antwerp 
+255.55 - Coral Lophelia: Departure ballast to Braefoot Bay 
+255.77 - Coral Pearl: cargo.189 discharged in Antwerp 
+255.77 - Coral Pearl: Departure ballast to Braefoot Bay 
+256.60 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+256.88 - Coral Parensis: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+257.18 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+257.40 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+258.13 - Coral Parensis: cargo.191 discharged in Stade 
+258.13 - Coral Parensis: Departure ballast to Braefoot Bay 
+258.30 - Coral Patula: cargo.190 discharged in Antwerp 
+258.30 - Coral Patula: Departure ballast to Rafnes 
+258.31 - Coral Alameda: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+258.42 - Coral Lophelia: cargo.193 loaded at Braefoot Bay, Departure laden to Antwerp 
+258.70 - Coral Pearl: cargo.194 loaded at Braefoot Bay, Departure laden to Antwerp 
+259.87 - Coral Alameda: cargo.192 loaded at Porvoo, Departure laden to Antwerp 
+259.93 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+260.05 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+260.33 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+260.44 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+261.13 - Coral Parensis: cargo.195 loaded at Braefoot Bay, Departure laden to Antwerp 
+261.28 - Coral Lophelia: cargo.193 discharged in Antwerp 
+261.28 - Coral Lophelia: Departure ballast to Braefoot Bay 
+261.50 - Coral Patula: cargo.196 loaded at Rafnes, Departure laden to Antwerp 
+261.81 - Coral Pearl: cargo.194 discharged in Antwerp 
+261.81 - Coral Pearl: Departure ballast to Braefoot Bay 
+262.76 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+262.92 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+263.44 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+263.65 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+264.15 - Coral Parensis: cargo.195 discharged in Antwerp 
+264.15 - Coral Parensis: Departure ballast to Braefoot Bay 
+264.50 - Coral Alameda: Arrive laden at Antwerp (Distance: 1234 NM, Travel time: 4.63 days) 
+264.58 - Coral Lophelia: cargo.197 loaded at Braefoot Bay, Departure laden to Antwerp 
+264.85 - Coral Pearl: cargo.198 loaded at Braefoot Bay, Departure laden to Antwerp 
+265.24 - Coral Patula: cargo.196 discharged in Antwerp 
+265.24 - Coral Patula: Departure ballast to Rafnes 
+265.78 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+265.84 - Coral Alameda: cargo.192 discharged in Antwerp 
+265.84 - Coral Alameda: Departure ballast to Braefoot Bay 
+266.21 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+266.48 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+266.92 - Coral Parensis: cargo.199 loaded at Braefoot Bay, Departure laden to Antwerp 
+267.39 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+267.47 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+267.95 - Coral Lophelia: cargo.197 discharged in Antwerp 
+267.95 - Coral Lophelia: Departure ballast to Braefoot Bay 
+268.24 - Coral Pearl: cargo.198 discharged in Antwerp 
+268.24 - Coral Pearl: Departure ballast to Rafnes 
+268.55 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+268.87 - Coral Patula: cargo.200 loaded at Rafnes, Departure laden to Antwerp 
+269.32 - Coral Alameda: cargo.201 loaded at Braefoot Bay, Departure laden to Antwerp 
+269.58 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+269.67 - Coral Parensis: cargo.199 discharged in Antwerp 
+269.67 - Coral Parensis: Departure ballast to Braefoot Bay 
+270.39 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+270.95 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+271.01 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+271.30 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+271.46 - Coral Lophelia: cargo.202 loaded at Braefoot Bay, Departure laden to Antwerp 
+271.91 - Coral Pearl: cargo.203 loaded at Rafnes, Departure laden to Antwerp 
+272.19 - Coral Alameda: cargo.201 discharged in Antwerp 
+272.19 - Coral Alameda: Departure ballast to Braefoot Bay 
+272.36 - Coral Parensis: cargo.204 loaded at Braefoot Bay, Departure laden to Antwerp 
+272.55 - Coral Patula: cargo.200 discharged in Antwerp 
+272.55 - Coral Patula: Departure ballast to Rafnes 
+273.09 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+273.83 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+273.99 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+274.05 - Coral Pearl: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+274.69 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+274.71 - Coral Lophelia: cargo.202 discharged in Antwerp 
+274.71 - Coral Lophelia: Departure ballast to Braefoot Bay 
+275.13 - Coral Alameda: cargo.205 loaded at Braefoot Bay, Departure laden to Antwerp 
+275.25 - Coral Parensis: cargo.204 discharged in Antwerp 
+275.25 - Coral Parensis: Departure ballast to Porvoo 
+275.39 - Coral Pearl: cargo.203 discharged in Antwerp 
+275.39 - Coral Pearl: Departure ballast to Braefoot Bay 
+276.08 - Coral Patula: cargo.206 loaded at Rafnes, Departure laden to Antwerp 
+276.34 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+276.76 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+277.02 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+277.53 - Coral Lophelia: cargo.207 loaded at Braefoot Bay, Departure laden to Antwerp 
+277.93 - Coral Alameda: cargo.205 discharged in Antwerp 
+277.93 - Coral Alameda: Departure ballast to Rafnes 
+278.22 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+278.34 - Coral Pearl: cargo.209 loaded at Braefoot Bay, Departure laden to Antwerp 
+279.16 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+279.38 - Coral Patula: cargo.206 discharged in Antwerp 
+279.38 - Coral Patula: Departure ballast to Braefoot Bay 
+279.88 - Coral Parensis: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+279.97 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+280.08 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+280.71 - Coral Lophelia: cargo.207 discharged in Antwerp 
+280.71 - Coral Lophelia: Departure ballast to Braefoot Bay 
+281.00 - Coral Parensis: cargo.208 loaded at Porvoo, Departure laden to Stade 
+281.01 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+281.08 - Coral Pearl: cargo.209 discharged in Antwerp 
+281.08 - Coral Pearl: Departure ballast to Rafnes 
+281.53 - Coral Alameda: cargo.210 loaded at Rafnes, Departure laden to Stade 
+282.34 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+282.39 - Coral Patula: cargo.211 loaded at Braefoot Bay, Departure laden to Antwerp 
+282.97 - Coral Alameda: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+283.22 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+283.86 - Coral Lophelia: cargo.212 loaded at Braefoot Bay, Departure laden to Antwerp 
+284.02 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+284.35 - Coral Pearl: cargo.213 loaded at Rafnes, Departure laden to Antwerp 
+284.60 - Coral Alameda: cargo.210 discharged in Stade 
+284.60 - Coral Alameda: Departure ballast to Braefoot Bay 
+284.93 - Coral Parensis: Arrive laden at Stade (Distance: 1047 NM, Travel time: 3.93 days) 
+285.49 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+285.65 - Coral Patula: cargo.211 discharged in Antwerp 
+285.65 - Coral Patula: Departure ballast to Braefoot Bay 
+286.40 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+286.42 - Coral Parensis: cargo.208 discharged in Stade 
+286.42 - Coral Parensis: Departure ballast to Braefoot Bay 
+286.49 - Coral Pearl: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+286.71 - Coral Lophelia: cargo.212 discharged in Antwerp 
+286.71 - Coral Lophelia: Departure ballast to Rafnes 
+287.28 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+287.91 - Coral Alameda: cargo.214 loaded at Braefoot Bay, Departure laden to Antwerp 
+288.22 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+288.23 - Coral Pearl: cargo.213 discharged in Antwerp 
+288.23 - Coral Pearl: Departure ballast to Braefoot Bay 
+288.85 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+288.96 - Coral Patula: cargo.215 loaded at Braefoot Bay, Departure laden to Antwerp 
+289.19 - Coral Parensis: cargo.216 loaded at Braefoot Bay, Departure laden to Antwerp 
+289.55 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+289.86 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+290.21 - Coral Lophelia: cargo.217 loaded at Rafnes, Departure laden to Stenungsund 
+290.59 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+290.63 - Coral Lophelia: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+290.82 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+291.08 - Coral Alameda: cargo.214 discharged in Antwerp 
+291.08 - Coral Alameda: Departure ballast to Braefoot Bay 
+291.42 - Coral Pearl: cargo.218 loaded at Braefoot Bay, Departure laden to Antwerp 
+291.66 - Coral Lophelia: cargo.217 discharged in Stenungsund 
+291.66 - Coral Lophelia: Departure ballast to Braefoot Bay 
+292.14 - Coral Patula: cargo.215 discharged in Antwerp 
+292.14 - Coral Patula: Departure ballast to Rafnes 
+292.26 - Coral Parensis: cargo.216 discharged in Antwerp 
+292.26 - Coral Parensis: Departure ballast to Le Havre 
+292.71 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+293.06 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+293.19 - Coral Parensis: Arrive ballast at Le Havre (Distance: 247 NM, Travel time: 0.93 days) 
+293.60 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+293.95 - Coral Alameda: cargo.219 loaded at Braefoot Bay, Departure laden to Antwerp 
+294.28 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+294.56 - Coral Pearl: cargo.218 discharged in Antwerp 
+294.56 - Coral Pearl: Departure ballast to Braefoot Bay 
+294.87 - Coral Parensis: cargo.222 loaded at Le Havre, Departure laden to Antwerp 
+294.95 - Coral Lophelia: cargo.220 loaded at Braefoot Bay, Departure laden to Antwerp 
+295.24 - Coral Patula: cargo.221 loaded at Rafnes, Departure laden to Antwerp 
+295.59 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+295.80 - Coral Parensis: Arrive laden at Antwerp (Distance: 247 NM, Travel time: 0.93 days) 
+296.19 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+296.55 - Coral Alameda: cargo.219 discharged in Antwerp 
+296.55 - Coral Alameda: Departure ballast to Rafnes 
+296.59 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+297.39 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+297.58 - Coral Pearl: cargo.223 loaded at Braefoot Bay, Departure laden to Antwerp 
+297.84 - Coral Parensis: cargo.222 discharged in Antwerp 
+297.84 - Coral Parensis: Departure ballast to Braefoot Bay 
+297.99 - Coral Lophelia: cargo.220 discharged in Antwerp 
+297.99 - Coral Lophelia: Departure ballast to Porvoo 
+298.69 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+298.83 - Coral Patula: cargo.221 discharged in Antwerp 
+298.83 - Coral Patula: Departure ballast to Braefoot Bay 
+299.21 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+299.48 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+299.74 - Coral Alameda: cargo.224 loaded at Rafnes, Departure laden to Stenungsund 
+300.16 - Coral Alameda: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+300.46 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+301.14 - Coral Pearl: cargo.223 discharged in Antwerp 
+301.14 - Coral Pearl: Departure ballast to Rafnes 
+301.23 - Coral Parensis: cargo.225 loaded at Braefoot Bay, Departure laden to Antwerp 
+301.49 - Coral Alameda: cargo.224 discharged in Stenungsund 
+301.49 - Coral Alameda: Departure ballast to Braefoot Bay 
+301.98 - Coral Patula: cargo.227 loaded at Braefoot Bay, Departure laden to Antwerp 
+302.62 - Coral Lophelia: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+302.86 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+303.28 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+303.43 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+303.61 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+304.21 - Coral Lophelia: cargo.226 loaded at Porvoo, Departure laden to Stade 
+304.35 - Coral Parensis: cargo.225 discharged in Antwerp 
+304.35 - Coral Parensis: Departure ballast to Braefoot Bay 
+304.61 - Coral Pearl: cargo.228 loaded at Rafnes, Departure laden to Stenungsund 
+305.03 - Coral Pearl: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+305.15 - Coral Alameda: cargo.229 loaded at Braefoot Bay, Departure laden to Antwerp 
+305.23 - Coral Patula: cargo.227 discharged in Antwerp 
+305.23 - Coral Patula: Departure ballast to Braefoot Bay 
+305.98 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+306.59 - Coral Pearl: cargo.228 discharged in Stenungsund 
+306.59 - Coral Pearl: Departure ballast to Braefoot Bay 
+306.78 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+306.86 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+307.70 - Coral Parensis: cargo.230 loaded at Braefoot Bay, Departure laden to Antwerp 
+308.14 - Coral Lophelia: Arrive laden at Stade (Distance: 1047 NM, Travel time: 3.93 days) 
+308.48 - Coral Alameda: cargo.229 discharged in Antwerp 
+308.48 - Coral Alameda: Departure ballast to Rafnes 
+308.53 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+308.74 - Coral Patula: cargo.231 loaded at Braefoot Bay, Departure laden to Antwerp 
+309.33 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+309.62 - Coral Lophelia: cargo.226 discharged in Stade 
+309.62 - Coral Lophelia: Departure ballast to Braefoot Bay 
+309.96 - Coral Pearl: cargo.232 loaded at Braefoot Bay, Departure laden to Antwerp 
+310.37 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+310.62 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+310.93 - Coral Parensis: cargo.230 discharged in Antwerp 
+310.93 - Coral Parensis: Departure ballast to Braefoot Bay 
+311.42 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+311.47 - Coral Alameda: cargo.233 loaded at Rafnes, Departure laden to Stenungsund 
+311.59 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+311.89 - Coral Alameda: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+312.01 - Coral Patula: cargo.231 discharged in Antwerp 
+312.01 - Coral Patula: Departure ballast to Braefoot Bay 
+312.57 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+312.92 - Coral Lophelia: cargo.234 loaded at Braefoot Bay, Departure laden to Antwerp 
+312.94 - Coral Alameda: cargo.233 discharged in Stenungsund 
+312.94 - Coral Alameda: Departure ballast to Rafnes 
+313.28 - Coral Pearl: cargo.232 discharged in Antwerp 
+313.28 - Coral Pearl: Departure ballast to Braefoot Bay 
+313.36 - Coral Alameda: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+313.64 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+314.12 - Coral Parensis: cargo.235 loaded at Braefoot Bay, Departure laden to Antwerp 
+314.56 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+314.92 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+315.17 - Coral Alameda: cargo.237 loaded at Rafnes, Departure laden to Stenungsund 
+315.32 - Coral Patula: cargo.236 loaded at Braefoot Bay, Departure laden to Antwerp 
+315.59 - Coral Alameda: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+315.68 - Coral Lophelia: cargo.234 discharged in Antwerp 
+315.68 - Coral Lophelia: Departure ballast to Braefoot Bay 
+315.75 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+316.30 - Coral Pearl: cargo.238 loaded at Braefoot Bay, Departure laden to Antwerp 
+316.75 - Coral Alameda: cargo.237 discharged in Stenungsund 
+316.75 - Coral Alameda: Departure ballast to Braefoot Bay 
+316.96 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+317.31 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+317.54 - Coral Parensis: cargo.235 discharged in Antwerp 
+317.54 - Coral Parensis: Departure ballast to Rafnes 
+317.93 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+318.39 - Coral Patula: cargo.236 discharged in Antwerp 
+318.39 - Coral Patula: Departure ballast to Braefoot Bay 
+318.57 - Coral Lophelia: cargo.239 loaded at Braefoot Bay, Departure laden to Antwerp 
+318.69 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+319.06 - Coral Pearl: cargo.238 discharged in Antwerp 
+319.06 - Coral Pearl: Departure ballast to Porvoo 
+319.68 - Coral Parensis: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+320.02 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+320.20 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+320.22 - Coral Alameda: cargo.240 loaded at Braefoot Bay, Departure laden to Antwerp 
+321.03 - Coral Parensis: cargo.241 loaded at Rafnes, Departure laden to Antwerp 
+321.70 - Coral Lophelia: cargo.239 discharged in Antwerp 
+321.70 - Coral Lophelia: Departure ballast to Braefoot Bay 
+321.85 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+321.90 - Coral Patula: cargo.242 loaded at Braefoot Bay, Departure laden to Antwerp 
+323.13 - Coral Alameda: cargo.240 discharged in Antwerp 
+323.13 - Coral Alameda: Departure ballast to Rafnes 
+323.17 - Coral Parensis: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+323.33 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+323.53 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+323.69 - Coral Pearl: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+324.77 - Coral Lophelia: cargo.244 loaded at Braefoot Bay, Departure laden to Antwerp 
+325.00 - Coral Parensis: cargo.241 discharged in Antwerp 
+325.00 - Coral Parensis: Departure ballast to Braefoot Bay 
+325.23 - Coral Pearl: cargo.243 loaded at Porvoo, Departure laden to Stade 
+325.28 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+325.56 - Coral Patula: cargo.242 discharged in Antwerp 
+325.56 - Coral Patula: Departure ballast to Braefoot Bay 
+326.40 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+326.63 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+327.09 - Coral Alameda: cargo.245 loaded at Rafnes, Departure laden to Antwerp 
+327.19 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+327.74 - Coral Lophelia: cargo.244 discharged in Antwerp 
+327.74 - Coral Lophelia: Departure ballast to Rafnes 
+327.95 - Coral Parensis: cargo.246 loaded at Braefoot Bay, Departure laden to Antwerp 
+328.52 - Coral Patula: cargo.247 loaded at Braefoot Bay, Departure laden to Antwerp 
+329.16 - Coral Pearl: Arrive laden at Stade (Distance: 1047 NM, Travel time: 3.93 days) 
+329.23 - Coral Alameda: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+329.58 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+329.89 - Coral Lophelia: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+330.15 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+330.17 - Coral Pearl: cargo.243 discharged in Stade 
+330.17 - Coral Pearl: Departure ballast to Braefoot Bay 
+330.68 - Coral Alameda: cargo.245 discharged in Antwerp 
+330.68 - Coral Alameda: Departure ballast to Braefoot Bay 
+330.99 - Coral Parensis: cargo.246 discharged in Antwerp 
+330.99 - Coral Parensis: Departure ballast to Rafnes 
+331.24 - Coral Lophelia: cargo.248 loaded at Rafnes, Departure laden to Stade 
+331.35 - Coral Patula: cargo.247 discharged in Antwerp 
+331.35 - Coral Patula: Departure ballast to Braefoot Bay 
+331.97 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+332.31 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+332.68 - Coral Lophelia: Arrive laden at Stade (Distance: 385 NM, Travel time: 1.44 days) 
+332.98 - Coral Patula: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+333.14 - Coral Parensis: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+333.17 - Coral Pearl: cargo.249 loaded at Braefoot Bay, Departure laden to Antwerp 
+333.55 - Coral Alameda: cargo.250 loaded at Braefoot Bay, Departure laden to Antwerp 
+333.92 - Coral Lophelia: cargo.248 discharged in Stade 
+333.92 - Coral Lophelia: Departure ballast to Braefoot Bay 
+334.29 - Coral Patula: cargo.252 loaded at Braefoot Bay, Departure laden to Antwerp 
+334.80 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+334.97 - Coral Parensis: cargo.251 loaded at Rafnes, Departure laden to Stenungsund 
+335.18 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+335.39 - Coral Parensis: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+335.72 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 480 NM, Travel time: 1.80 days) 
+335.92 - Coral Patula: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+336.19 - Coral Pearl: cargo.249 discharged in Antwerp 
+336.19 - Coral Pearl: Departure ballast to Braefoot Bay 
+336.48 - Coral Alameda: cargo.250 discharged in Antwerp 
+336.48 - Coral Alameda: Departure ballast to Rafnes 
+336.90 - Coral Parensis: cargo.251 discharged in Stenungsund 
+336.90 - Coral Parensis: Departure ballast to Braefoot Bay 
+337.31 - Coral Patula: cargo.252 discharged in Antwerp 
+337.31 - Coral Patula: Departure ballast to Le Havre 
+337.54 - Coral Lophelia: cargo.253 loaded at Braefoot Bay, Departure laden to Antwerp 
+337.82 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+338.24 - Coral Patula: Arrive ballast at Le Havre (Distance: 247 NM, Travel time: 0.93 days) 
+338.63 - Coral Alameda: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+338.84 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+339.01 - Coral Pearl: cargo.254 loaded at Braefoot Bay, Departure laden to Antwerp 
+339.17 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+339.87 - Coral Patula: cargo.257 loaded at Le Havre, Departure laden to Antwerp 
+340.26 - Coral Lophelia: cargo.253 discharged in Antwerp 
+340.26 - Coral Lophelia: Departure ballast to Braefoot Bay 
+340.32 - Coral Alameda: cargo.255 loaded at Rafnes, Departure laden to Stenungsund 
+340.33 - Coral Parensis: cargo.256 loaded at Braefoot Bay, Departure laden to Antwerp 
+340.64 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+340.74 - Coral Alameda: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+340.80 - Coral Patula: Arrive laden at Antwerp (Distance: 247 NM, Travel time: 0.93 days) 
+341.89 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+341.96 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+342.00 - Coral Alameda: cargo.255 discharged in Stenungsund 
+342.00 - Coral Alameda: Departure ballast to Porvoo 
+342.36 - Coral Pearl: cargo.254 discharged in Antwerp 
+342.36 - Coral Pearl: Departure ballast to Braefoot Bay 
+342.42 - Coral Patula: cargo.257 discharged in Antwerp 
+342.42 - Coral Patula: Departure ballast to Rafnes 
+343.23 - Coral Parensis: cargo.256 discharged in Antwerp 
+343.23 - Coral Parensis: Departure ballast to Braefoot Bay 
+343.26 - Coral Lophelia: cargo.258 loaded at Braefoot Bay, Departure laden to Antwerp 
+343.99 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+344.56 - Coral Patula: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+344.72 - Coral Alameda: Arrive ballast at Porvoo (Distance: 725 NM, Travel time: 2.72 days) 
+344.87 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+344.89 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+345.58 - Coral Pearl: cargo.260 loaded at Braefoot Bay, Departure laden to Antwerp 
+345.84 - Coral Patula: cargo.261 loaded at Rafnes, Departure laden to Stenungsund 
+345.84 - Coral Alameda: cargo.259 loaded at Porvoo, Departure laden to Stenungsund 
+346.26 - Coral Patula: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+346.31 - Coral Parensis: cargo.262 loaded at Braefoot Bay, Departure laden to Antwerp 
+346.74 - Coral Lophelia: cargo.258 discharged in Antwerp 
+346.74 - Coral Lophelia: Departure ballast to Braefoot Bay 
+347.21 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+347.90 - Coral Patula: cargo.261 discharged in Stenungsund 
+347.90 - Coral Patula: Departure ballast to Rafnes 
+347.94 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+348.32 - Coral Patula: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+348.37 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+348.56 - Coral Alameda: Arrive laden at Stenungsund (Distance: 725 NM, Travel time: 2.72 days) 
+349.28 - Coral Pearl: cargo.260 discharged in Antwerp 
+349.28 - Coral Pearl: Departure ballast to Braefoot Bay 
+349.43 - Coral Parensis: cargo.262 discharged in Antwerp 
+349.43 - Coral Parensis: Departure ballast to Braefoot Bay 
+349.75 - Coral Lophelia: cargo.263 loaded at Braefoot Bay, Departure laden to Antwerp 
+349.93 - Coral Alameda: cargo.259 discharged in Stenungsund 
+349.93 - Coral Alameda: Departure ballast to Braefoot Bay 
+350.01 - Coral Patula: cargo.264 loaded at Rafnes, Departure laden to Stenungsund 
+350.43 - Coral Patula: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+350.91 - Coral Pearl: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+351.06 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+351.38 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+351.54 - Coral Patula: cargo.264 discharged in Stenungsund 
+351.54 - Coral Patula: Departure ballast to Rafnes 
+351.87 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 517 NM, Travel time: 1.94 days) 
+351.96 - Coral Patula: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+352.33 - Coral Pearl: cargo.265 loaded at Braefoot Bay, Departure laden to Antwerp 
+352.61 - Coral Parensis: cargo.266 loaded at Braefoot Bay, Departure laden to Antwerp 
+353.33 - Coral Patula: cargo.268 loaded at Rafnes, Departure laden to Antwerp 
+353.48 - Coral Lophelia: cargo.263 discharged in Antwerp 
+353.48 - Coral Lophelia: Departure ballast to Braefoot Bay 
+353.53 - Coral Alameda: cargo.267 loaded at Braefoot Bay, Departure laden to Antwerp 
+353.96 - Coral Pearl: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+354.24 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+355.11 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+355.16 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+355.47 - Coral Patula: Arrive laden at Antwerp (Distance: 572 NM, Travel time: 2.15 days) 
+355.71 - Coral Parensis: cargo.266 discharged in Antwerp 
+355.71 - Coral Parensis: Departure ballast to Braefoot Bay 
+355.81 - Coral Pearl: cargo.265 discharged in Antwerp 
+355.81 - Coral Pearl: Departure ballast to Rafnes 
+356.52 - Coral Lophelia: cargo.269 loaded at Braefoot Bay, Departure laden to Antwerp 
+356.72 - Coral Alameda: cargo.267 discharged in Antwerp 
+356.72 - Coral Alameda: Departure ballast to Braefoot Bay 
+356.95 - Coral Patula: cargo.268 discharged in Antwerp 
+356.95 - Coral Patula: Departure ballast to Porvoo 
+357.34 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+357.95 - Coral Pearl: Arrive ballast at Rafnes (Distance: 572 NM, Travel time: 2.15 days) 
+358.15 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+358.35 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+358.84 - Coral Parensis: cargo.270 loaded at Braefoot Bay, Departure laden to Antwerp 
+359.61 - Coral Alameda: cargo.272 loaded at Braefoot Bay, Departure laden to Antwerp 
+359.78 - Coral Lophelia: cargo.269 discharged in Antwerp 
+359.78 - Coral Lophelia: Departure ballast to Braefoot Bay 
+359.82 - Coral Pearl: cargo.271 loaded at Rafnes, Departure laden to Stenungsund 
+360.24 - Coral Pearl: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+360.48 - Coral Parensis: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+361.24 - Coral Alameda: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+361.41 - Coral Lophelia: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+361.57 - Coral Patula: Arrive ballast at Porvoo (Distance: 1234 NM, Travel time: 4.63 days) 
+361.69 - Coral Pearl: cargo.271 discharged in Stenungsund 
+361.69 - Coral Pearl: Departure ballast to Rafnes 
+362.03 - Coral Parensis: cargo.270 discharged in Antwerp 
+362.03 - Coral Parensis: Departure ballast to Braefoot Bay 
+362.11 - Coral Pearl: Arrive ballast at Rafnes (Distance: 112 NM, Travel time: 0.42 days) 
+362.45 - Coral Lophelia: cargo.274 loaded at Braefoot Bay, Departure laden to Antwerp 
+362.89 - Coral Alameda: cargo.272 discharged in Antwerp 
+362.89 - Coral Alameda: Departure ballast to Braefoot Bay 
+363.14 - Coral Patula: cargo.273 loaded at Porvoo, Departure laden to Stenungsund 
+363.61 - Coral Pearl: cargo.275 loaded at Rafnes, Departure laden to Stenungsund 
+363.66 - Coral Parensis: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+364.03 - Coral Pearl: Arrive laden at Stenungsund (Distance: 112 NM, Travel time: 0.42 days) 
+364.08 - Coral Lophelia: Arrive laden at Antwerp (Distance: 435 NM, Travel time: 1.63 days) 
+364.52 - Coral Alameda: Arrive ballast at Braefoot Bay (Distance: 435 NM, Travel time: 1.63 days) 
+364.95 - Coral Pearl: cargo.275 discharged in Stenungsund 
+364.95 - Coral Pearl: Departure ballast to Rafnes 
+
+==================================================================================
+
+Statistics of cargo_queue at       365    
+                                                                     all    excl.zero         zero
+-------------------------------------------- -------------- ------------ ------------ ------------
+Length of cargo_queue                        duration            365          361.179        3.821
+                                             mean                 12.199       12.328
+                                             std.deviation         5.930        5.826
+
+                                             minimum               0            1    
+                                             median               13           13    
+                                             90% percentile       19           19    
+                                             95% percentile       20           20    
+                                             maximum              21           21    
+
+Length of stay in cargo_queue                entries             279          279            0    
+                                             mean                 15.180       15.180
+                                             std.deviation         7.652        7.652
+
+                                             minimum               0            0    
+                                             median               15.109       15.109
+                                             90% percentile       24.479       24.479
+                                             95% percentile       25.133       25.133
+                                             maximum              26.634       26.634
+Histogram of Length of cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+duration            365          361.179        3.821
+mean                 12.199       12.328
+std.deviation         5.930        5.826
+
+minimum               0            1    
+median               13           13    
+90% percentile       19           19    
+95% percentile       20           20    
+maximum              21           21    
+
+           <=      duration     %  cum%
+        0             3.821   1.0   1.0 |                                                                              
+        1             3.149   0.9   1.9  |                                                                             
+        2             7.409   2.0   3.9 *  |                                                                           
+        3             7.877   2.2   6.1 *   |                                                                          
+        4            16.237   4.4  10.5 ***     |                                                                      
+        5            20.063   5.5  16.0 ****        |                                                                  
+        6            23.782   6.5  22.6 *****             |                                                            
+        7            21.793   6.0  28.5 ****                  |                                                        
+        8            26.563   7.3  35.8 *****                       |                                                  
+        9            19.020   5.2  41.0 ****                            |                                              
+       10            10.942   3.0  44.0 **                                 |                                           
+       11            11.396   3.1  47.1 **                                   |                                         
+       12             9.627   2.6  49.8 **                                     |                                       
+       13            12.952   3.5  53.3 **                                        |                                    
+       14            11.275   3.1  56.4 **                                           |                                 
+       15            15.990   4.4  60.8 ***                                             |                              
+       16             6.316   1.7  62.5 *                                                 |                            
+       17            19.256   5.3  67.8 ****                                                  |                        
+       18            40.249  11.0  78.8 ********                                                       |               
+       19            50.439  13.8  92.6 ***********                                                               |    
+       20            24.398   6.7  99.3 *****                                                                          |
+       21             2.448   0.7 100                                                                                   |
+          inf         0       0   100                                                                                   |
+
+Histogram of Length of stay in cargo_queue
+                        all    excl.zero         zero
+-------------- ------------ ------------ ------------
+entries             279          279            0    
+mean                 15.180       15.180
+std.deviation         7.652        7.652
+
+minimum               0            0    
+median               15.109       15.109
+90% percentile       24.479       24.479
+95% percentile       25.133       25.133
+maximum              26.634       26.634
+
+           <=       entries     %  cum%
+        0             5       1.8   1.8 *|                                                                             
+        1             0       0     1.8  |                                                                             
+        2             5       1.8   3.6 * |                                                                            
+        3             3       1.1   4.7    |                                                                           
+        4             4       1.4   6.1 *   |                                                                          
+        5             4       1.4   7.5 *     |                                                                        
+        6            16       5.7  13.3 ****      |                                                                    
+        7            13       4.7  17.9 ***           |                                                                
+        8            10       3.6  21.5 **               |                                                             
+        9            17       6.1  27.6 ****                  |                                                        
+       10            10       3.6  31.2 **                      |                                                      
+       11            15       5.4  36.6 ****                         |                                                 
+       12            17       6.1  42.7 ****                              |                                            
+       13             7       2.5  45.2 **                                  |                                          
+       14             7       2.5  47.7 **                                    |                                        
+       15             5       1.8  49.5 *                                      |                                       
+       16             9       3.2  52.7 **                                        |                                    
+       17             6       2.2  54.8 *                                          |                                   
+       18            12       4.3  59.1 ***                                            |                               
+       19             4       1.4  60.6 *                                               |                              
+       20             8       2.9  63.4 **                                                |                            
+       21             4       1.4  64.9 *                                                  |                           
+       22            10       3.6  68.5 **                                                    |                        
+       23            14       5.0  73.5 ****                                                      |                    
+       24            25       9.0  82.4 *******                                                          |             
+       25            31      11.1  93.5 ********                                                                  |    
+       26            12       4.3  97.8 ***                                                                           |
+       27             6       2.2 100   *                                                                               |
+          inf         0       0   100                                                                                   |
+
+Queue 0x7fcc51f8d910
+  name=cargo_queue
+  component(s):
+    cargo.279            enter_time    342.35 priority=0
+    cargo.280            enter_time    344.61 priority=0
+    cargo.281            enter_time    346.40 priority=0
+    cargo.282            enter_time    346.50 priority=0
+    cargo.283            enter_time    346.58 priority=0
+    cargo.284            enter_time    349.04 priority=0
+    cargo.285            enter_time    349.39 priority=0
+    cargo.286            enter_time    350.78 priority=0
+    cargo.287            enter_time    352.42 priority=0
+    cargo.288            enter_time    352.56 priority=0
+    cargo.289            enter_time    354.24 priority=0
+    cargo.290            enter_time    355.86 priority=0
+    cargo.291            enter_time    356.57 priority=0
+    cargo.292            enter_time    358.38 priority=0
+    cargo.293            enter_time    360.50 priority=0
+    cargo.294            enter_time    361.10 priority=0
+    cargo.295            enter_time    361.77 priority=0
+    cargo.296            enter_time    363.37 priority=0
+    cargo.297            enter_time    364.99 priority=0
+Histogram of Coral Lophelia.status
+duration           365    
+
+value                     duration     %
+scheduled                  365     100   ********************************************************************************
+
+
+Histogram of Coral Parensis.status
+duration           365    
+
+value                     duration     %
+scheduled                  365     100   ********************************************************************************
+
+
+Histogram of Coral Patula.status
+duration           365    
+
+value                     duration     %
+scheduled                  365     100   ********************************************************************************
+
+
+Histogram of Coral Pearl.status
+duration           365    
+
+value                     duration     %
+scheduled                  365     100   ********************************************************************************
+
+
+Histogram of Coral Alameda.status
+duration           365    
+
+value                     duration     %
+passive                      1.486   0.4 
+scheduled                  363.514  99.6 *******************************************************************************
+
