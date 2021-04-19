@@ -1526,7 +1526,7 @@ maximum               1.676        1.676
         2             1       0.3 100                                                                                   |
           inf         0       0   100                                                                                   |
 
-Queue 0x7fcc5200ae50
+Queue 0x7fb3ef6842e0
   name=cargo_queue
   no components
 Histogram of Coral Lophelia.status

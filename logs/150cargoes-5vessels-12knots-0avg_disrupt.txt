@@ -1334,7 +1334,7 @@ maximum               1.672        1.672
         2            12       4.7 100   ***                                                                             |
           inf         0       0   100                                                                                   |
 
-Queue 0x7fcc51fe1970
+Queue 0x7fb3ef5f8250
   name=cargo_queue
   component(s):
     cargo.257            enter_time    364.69 priority=0

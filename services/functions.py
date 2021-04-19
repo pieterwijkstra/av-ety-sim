@@ -1,5 +1,7 @@
+import salabim as sim
+
 # Define components
-cargogenerators = {}
+
 
 
 class CargoGenerator(sim.Component):
